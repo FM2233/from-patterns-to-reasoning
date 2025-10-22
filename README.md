@@ -39,7 +39,7 @@ The introduction of the **Transformer** revolutionized NLP, outperforming tradit
 
 ### A. LLMs as a Data Interpreter  
 *Todo:* Describe how LLMs can process textual or multimodal industrial data. 
-Big data and stream processing platforms for Industry 4.0 requirements mapping for a predictive maintenance use case<img width="889" height="59" alt="image" src="https://doi.org/10.1016/j.jmsy.2019.11.004" />
+- **Big data and stream processing platforms for Industry 4.0 requirements mapping for a predictive maintenance use case (link) [https://arxiv.org/abs/2405.11874]
 
 
 ### B. LLMs as a Reasoning Engine  
