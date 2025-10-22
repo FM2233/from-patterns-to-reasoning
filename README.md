@@ -38,7 +38,9 @@ The introduction of the **Transformer** revolutionized NLP, outperforming tradit
 ## III. PROGNOSTICS HEALTH MANAGEMENT WITH LLMS
 
 ### A. LLMs as a Data Interpreter  
-*Todo:* Describe how LLMs can process textual or multimodal industrial data.  
+*Todo:* Describe how LLMs can process textual or multimodal industrial data. 
+Big data and stream processing platforms for Industry 4.0 requirements mapping for a predictive maintenance use case<img width="889" height="59" alt="image" src="https://doi.org/10.1016/j.jmsy.2019.11.004" />
+
 
 ### B. LLMs as a Reasoning Engine  
 #### 1) Diagnostic Reasoning Chains and Causal Inference  
@@ -83,15 +85,3 @@ You can maintain a `/references` folder or a markdown list below:
 - [Paper 1] Author et al., *Title*, Year.  
 - [Paper 2] Author et al., *Title*, Year.  
 
----
-
-## 📁 Repository Structure  
-```bash
-.
-├── README.md
-├── images/
-├── references/
-│   ├── PHM_related_papers.md
-│   └── LLM_related_papers.md
-└── notes/
-    └── section_drafts/
