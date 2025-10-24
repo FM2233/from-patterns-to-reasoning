@@ -175,6 +175,8 @@
 
   Zhang, Haochen and Dong, Yuyang and Xiao, Chuan and Oyamada, Masafumi. [[Paper](http://arxiv.org/abs/2308.16361)]
 
+</details>
+
 ### B. LLMs as a Reasoning Engine
 
 
