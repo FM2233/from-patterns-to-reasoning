@@ -496,11 +496,11 @@
 ---
 
 ## IV. EVALUATION AND DATA SOURCE
-<details>
-  
+
 ### A. Industrial Manufacturing
 <details>
-
+  <summary></summary>
+  
   - **Application of Internet of Thing and Cyber Physical System in Industry 4.0 Smart Manufacturing.** `Springer` `2021`
 
   Abikoye, Oluwakemi Christiana and Bajeh, Amos Orenyi and Awotunde, Joseph Bamidele and Ameen, Ahmed Oloduowo and Mojeed, Hammed Adeleye and Abdulraheem, Muyideen and Oladipo, Idowu Dauda and Salihu, Shakirat Aderonke.
@@ -548,8 +548,8 @@
 </details>
 
 ### B. Aerospace
-
 <details>
+<summary></summary>
 
   - **Deep Learning-Based Borescope Image Processing for Aero-Engine Blade in-Situ Damage Detection.** `Aerospace Science and Technology` `2022`
 
@@ -603,6 +603,7 @@
 
 ### C. Transportation
 <details>
+<summary></summary>
 
   - **A Large Language Model Framework to Uncover Underreporting in Traffic Crashes.** `Journal of Safety Research` `2025`
 
@@ -656,6 +657,7 @@
 
 ### D.  Energy and Power
 <details>
+<summary></summary>
 
   - **A Large Language Model for Advanced Power Dispatch.** `Scientific Reports` `2025`
 
@@ -709,6 +711,7 @@
 
 ### E.  Healthcare
 <details>
+<summary></summary>
 
   - **A Differentially Privacy Assisted Federated Learning Scheme to Preserve Data Privacy for IoMT Applications.** `IEEE Transactions on Network and Service Management` `2024`
 
@@ -736,7 +739,7 @@
   
 </details>
 
-</details>
+
 ---
 
 ## V. DL-BASED VS LLM-BASED
