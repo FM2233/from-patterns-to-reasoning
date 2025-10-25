@@ -123,7 +123,7 @@
 
 - **Data Interpreter: An LLM Agent For Data Science.** `arXiv` `2024`
 
-  Hong, Sirui and Lin, Yizhang and Liu, Bang and Liu, Bangbang and Wu, Binhao and Zhang, Ceyao and Wei, Chenxing and Li, Danyang and Chen, Jiaqi and Zhang, Jiayi and Wang, Jinlin and Zhang, Li and Zhang, Lingyao and Yang, Min and Zhuge, Mingchen and Guo, Taicheng and Zhou, Tuo and Tao, Wei and Tang, Xiangru and Lu, Xiangtao and Zheng, Xiawu and Liang, Xinbing and Fei, Yaying and Cheng, Yuheng and Gou, Zhibin and Xu, Zongze and Wu, Chenglin. [[Paper](http://arxiv.org/abs/2402.18679)]
+  Hong, Sirui and Lin, Yizhang and Liu, Bang and Liu. [[Paper](http://arxiv.org/abs/2402.18679)]
 
 - **Exploring the Effectiveness of LLMs in Automated Logging Generation: An Empirical Study.** `arXiv` `2024`
 
@@ -323,7 +323,7 @@
 
 - **Self-Refine: Iterative Refinement with Self-Feedback.** `Conference` `2023`
 
-  Madaan, Aman and Tandon, Niket and Gupta, Prakhar and Hallinan, Skyler and Gao, Luyu and Wiegreffe, Sarah and Alon, Uri and Dziri, Nouha and Prabhumoye, Shrimai and Yang, Yiming and Gupta, Shashank and Majumder, Bodhisattwa Prasad and Hermann, Katherine and Welleck, Sean and Yazdanbakhsh, Amir and Clark, Peter. [[Paper](https://openreview.net/forum?id=S37hOerQLB)]
+  Madaan, Aman and Tandon, Niket and Gupta, Prakhar and Hallinan, Skyler and Gao. [[Paper](https://openreview.net/forum?id=S37hOerQLB)]
 
 - **Fine-Tuning on Diverse Reasoning Chains Drives Within-Inference CoT Refinement in LLMs.** `arXiv` `2025`
 
@@ -375,7 +375,7 @@
 
   Men, ChangHao and Han, Yu and Wang, Ping and Tao, JianYuan and Huang, Cheng-Geng. [[Paper](https://ieeexplore.ieee.org/abstract/document/10925425)]
 
-- **Intelligent Fault Diagnosis and Visual Interpretability of Rotating Machinery Based on Residual Neural Network基于残差神经网络的旋转机械智能故障诊断与可视化解释.** `Measurement` `2022`
+- **Intelligent Fault Diagnosis and Visual Interpretability of Rotating Machinery Based on Residual Neural Network** `Measurement` `2022`
 
   Yu, Shihang and Wang, Min and Pang, Shanchen and Song, Limei and Qiao, Sibo. [[Paper](https://www.sciencedirect.com/science/article/pii/S0263224122004778)]
 </details>
@@ -559,10 +559,6 @@
 
   LIU, Peifeng and Qian, Lu and Zhao, Xingwei and Tao, Bo. [[Paper](https://ieeexplore.ieee.org/abstract/document/10463190)]
 
-- **Joint Knowledge Graph and Large Language Model for Fault Diagnosis and Its Application in Aviation Assembly.** `IEEE Transactions on Industrial Informatics` `2024`
-
-  LIU, Peifeng and Qian, Lu and Zhao, Xingwei and Tao, Bo. [[Paper](https://ieeexplore.ieee.org/abstract/document/10463190)]
-
 - **Fault Knowledge Graph Construction and Platform Development for Aircraft PHM.** `Sensors (Basel, Switzerland)` `2023`
 
   Meng, Xiangzhen and Jing, Bo and Wang, Shenglong and Pan, Jinxin and Huang, Yifeng and Jiao, Xiaoxuan.
@@ -637,9 +633,7 @@
 
   Liu, Qingchao and Yu, Ruohan and Cai, Yingfeng and Yuan, Quan and Wei, Henglai and Lv, Chen.
 
-- **Collision Risk Prediction and Takeover Requirements Assessment Based on Radar-Video Integrated Sensors Data: A System Framework Based on LLM.** `Accident; Analysis and Prevention` `2025`
 
-  Liu, Qingchao and Yu, Ruohan and Cai, Yingfeng and Yuan, Quan and Wei, Henglai and Lv, Chen.
 
 - **Intelligent Operation, Maintenance, and Control System for Public Building: Towards Infection Risk Mitigation and Energy Efficiency.** `Sustainable Cities and Society` `2023`
 
