@@ -501,17 +501,17 @@
 <details>
   <summary></summary>
   
-  - **Application of Internet of Thing and Cyber Physical System in Industry 4.0 Smart Manufacturing.** `Springer` `2021`
+- **Application of Internet of Thing and Cyber Physical System in Industry 4.0 Smart Manufacturing.** `Springer` `2021`
 
-  Abikoye, Oluwakemi Christiana and Bajeh, Amos Orenyi and Awotunde, Joseph Bamidele and Ameen, Ahmed Oloduowo and Mojeed, Hammed Adeleye and Abdulraheem, Muyideen and Oladipo, Idowu Dauda and Salihu, Shakirat Aderonke.
+  Abikoye, Oluwakemi Christiana and Bajeh, Amos Orenyi and Awotunde, Joseph Bamidele and Ameen, Ahmed Oloduowo and Mojeed, Hammed Adeleye and Abdulraheem, Muyideen and Oladipo, Idowu Dauda and Salihu, Shakirat Aderonke. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-66222-6_14)]
 
 - **Forecasting Municipal Solid Waste Quantity Using Artificial Neural Network and Supported Vector Machine Techniques: A Case Study of Johannesburg, South Africa.** `Journal of Cleaner Production` `2021`
 
-  family=Ayeleru, given=OO, given-i=OO and family=Fajimi, given=LI, given-i=LI and family=Oboirien, given=BO, given-i=BO and family=Olubambi, given=PA, given-i=PA.
+  family=Ayeleru, given=OO, given-i=OO and family=Fajimi, given=LI, given-i=LI and family=Oboirien, given=BO, given-i=BO and family=Olubambi, given=PA, given-i=PA. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0959652620357176)]
 
 - **Cyber-Physical Systems Architecture for Self-Aware Machines in Industry 4.0 Environment.** `IFAC-PapersOnLine` `2015`
 
-  Bagheri, Behrad and Yang, Shanhu and Kao, Hung-An and Lee, Jay.
+  Bagheri, Behrad and Yang, Shanhu and Kao, Hung-An and Lee, Jay. [[Paper](https://www.sciencedirect.com/science/article/pii/S2405896315005571)]
 
 - **Machine Learning Techniques Applied to Mechanical Fault Diagnosis and Fault Prognosis in the Context of Real Industrial Manufacturing Use-Cases: A Systematic Literature Review.** `Applied Intelligence` `2022`
 
@@ -519,19 +519,19 @@
 
 - **An End-to-End General Language Model (GLM)-4-Based Milling Cutter Fault Diagnosis Framework for Intelligent Manufacturing.** `Sensors (Basel, Switzerland)` `2025`
 
-  He, Jigang and Liu, Xuan and Lei, Yuncong and Cao, Ao and Xiong, Jie.
+  He, Jigang and Liu, Xuan and Lei, Yuncong and Cao, Ao and Xiong, Jie. [[Paper](https://www.mdpi.com/1424-8220/25/7/2295)]
 
 - **Research Progress on Data-Driven Industrial Fault Diagnosis Methods.** `Sensors (Basel, Switzerland)` `2025`
 
-  Lei, Liang and Li, Weibin and Zhang, Shiwei and Wu, Changyuan and Yu, Hongxiang.
+  Lei, Liang and Li, Weibin and Zhang, Shiwei and Wu, Changyuan and Yu, Hongxiang. [[Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12074220/)]
 
 - **Privacy-Preserving Traffic Flow Prediction: A Federated Learning Approach.** `IEEE Internet of Things Journal` `2020`
 
-  Liu, Yi and family=James, given=JQ, given-i=JQ and Kang, Jiawen and Niyato, Dusit and Zhang, Shuyu.
+  Liu, Yi and family=James, given=JQ, given-i=JQ and Kang, Jiawen and Niyato, Dusit and Zhang, Shuyu. [[Paper](https://ieeexplore.ieee.org/abstract/document/9082655)]
 
 - **LLM-based Framework for Bearing Fault Diagnosis.** `Mechanical Systems and Signal Processing` `2025`
 
-  *作者信息未提供*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0888327024010252)]
+  L Tao, H Liu, G Ning, W Cao. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0888327024010252)]
 
 - **Towards Privacy-Preserving Waste Classification in the Internet of Things.** `IEEE Internet of Things Journal` `2024`
 
@@ -539,19 +539,19 @@
 
 - **FLDID: Federated Learning Enabled Deep Intrusion Detection in Smart Manufacturing Industries.** `Sensors` `2022`
 
-  Verma, Priyanka and Breslin, John G and O’Shea, Donna.
+  Verma, Priyanka and Breslin, John G and O’Shea, Donna. [[Paper](https://www.mdpi.com/1424-8220/22/22/8974)]
 
 - **BrainIoT: Brain-like Productive Services Provisioning with Federated Learning in Industrial IoT.** `IEEE Internet of Things Journal` `2021`
 
-  Yang, Hui and Yuan, Jiaqi and Li, Chao and Zhao, Guanliang and Sun, Zhengjie and Yao, Qiuyan and Bao, Bowen and Vasilakos, Athanasios V and Zhang, Jie.
-  
+  Yang, Hui and Yuan, Jiaqi and Li, Chao and Zhao, Guanliang and Sun, Zhengjie and Yao, Qiuyan and Bao, Bowen and Vasilakos, Athanasios V and Zhang, Jie. [[Paper](https://ieeexplore.ieee.org/abstract/document/9454442)]
+
 </details>
 
 ### B. Aerospace
 <details>
 <summary></summary>
 
-  - **Deep Learning-Based Borescope Image Processing for Aero-Engine Blade in-Situ Damage Detection.** `Aerospace Science and Technology` `2022`
+ - **Deep Learning-Based Borescope Image Processing for Aero-Engine Blade in-Situ Damage Detection.** `Aerospace Science and Technology` `2022`
 
   Hongbing Shang. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S127096382200147X)]
 
@@ -561,7 +561,7 @@
 
 - **Fault Knowledge Graph Construction and Platform Development for Aircraft PHM.** `Sensors (Basel, Switzerland)` `2023`
 
-  Meng, Xiangzhen and Jing, Bo and Wang, Shenglong and Pan, Jinxin and Huang, Yifeng and Jiao, Xiaoxuan.
+  Meng, Xiangzhen and Jing, Bo and Wang, Shenglong and Pan, Jinxin and Huang, Yifeng and Jiao, Xiaoxuan. [[Paper](https://www.mdpi.com/1424-8220/24/1/231)]
 
 - **FD-LLM: Large Language Model for Fault Diagnosis of Machines.** `arXiv` `2024`
 
@@ -569,11 +569,11 @@
 
 - **Exploring Research on the Construction and Application of Knowledge Graphs for Aircraft Fault Diagnosis.** `Sensors (Basel, Switzerland)` `2023`
 
-  Tang, Xilang and Chi, Guo and Cui, Lijie and Ip, Andrew W. H. and Yung, Kai Leung and Xie, Xiaoyue.
+  Tang, Xilang and Chi, Guo and Cui, Lijie and Ip, Andrew W. H. and Yung, Kai Leung and Xie, Xiaoyue. [[Paper](https://www.mdpi.com/1424-8220/23/11/5295)]
 
 - **Identification of Variables Impacting Cascading Failures in Aerospace Systems: A Natural Language Processing Approach.** `Springer Nature Switzerland` `2024`
 
-  Taramsari, Hossein Basereh and Rao, Balaji and Nilchiani, Roshanak and Lipizzi, Carlo.
+  Taramsari, Hossein Basereh and Rao, Balaji and Nilchiani, Roshanak and Lipizzi, Carlo. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-62554-1_26)]
 
 - **An Aerospace Equipment Operation and Maintenance Scheduling Method Based on LLM and Solver.** `ICAIRC` `2024`
 
@@ -581,11 +581,11 @@
 
 - **KG-SR-LLM: Knowledge-Guided Semantic Representation and Large Language Model Framework for Cross-Domain Bearing Fault Diagnosis.** `Sensors (Basel, Switzerland)` `2025`
 
-  Xiao, Chengyong and Liu, Xiaowei and Wulamu, Aziguli and Zhang, Dezheng.
+  Xiao, Chengyong and Liu, Xiaowei and Wulamu, Aziguli and Zhang, Dezheng. [[Paper](https://www.mdpi.com/1424-8220/25/18/5758)]
 
 - **An Intelligent Guided Troubleshooting Method for Aircraft Based on HybirdRAG.** `Scientific Reports` `2025`
 
-  Xie, Xiaoyue and Tang, Xilang and Gu, Siwei and Cui, Lijie.
+  Xie, Xiaoyue and Tang, Xilang and Gu, Siwei and Cui, Lijie. [[Paper](https://www.nature.com/articles/s41598-025-02643-2)]
 
 - **CausalKGPT: Industrial Structure Causal Knowledge-Enhanced Large Language Model for Cause Analysis of Quality Problems in Aerospace Product Manufacturing.** `Advanced Engineering Informatics` `2024`
 
@@ -593,7 +593,8 @@
 
 - **A Comprehensive Survey of UPPAAL-assisted Formal Modeling and Verification.** `Software: Practice and Experience` `2025`
 
-  Zhou, Wenbo and Zhao, Yujiao and Zhang, Ye and Wang, Yiyuan and Yin, Minghao.
+  Zhou, Wenbo and Zhao, Yujiao and Zhang, Ye and Wang, Yiyuan and Yin, Minghao. [[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.3372)]
+
   
 </details>
 
@@ -601,51 +602,50 @@
 <details>
 <summary></summary>
 
-  - **A Large Language Model Framework to Uncover Underreporting in Traffic Crashes.** `Journal of Safety Research` `2025`
+- **A Large Language Model Framework to Uncover Underreporting in Traffic Crashes.** `Journal of Safety Research` `2025`
 
-  Arteaga, Cristian and Park, JeeWoong.
+  Arteaga, Cristian and Park, JeeWoong. [[Paper](https://www.sciencedirect.com/science/article/pii/S0022437524001580)]
 
 - **Decentralized Federated Learning for Extended Sensing in 6G Connected Vehicles.** `Vehicular Communications` `2022`
 
-  Barbieri, Luca and Savazzi, Stefano and Brambilla, Mattia and Nicoli, Monica.
+  Barbieri, Luca and Savazzi, Stefano and Brambilla, Mattia and Nicoli, Monica. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S2214209621000656)]
 
 - **Federated Learning for Connected and Automated Vehicles: A Survey of Existing Approaches and Challenges.** `IEEE Transactions on Intelligent Vehicles` `2023`
 
-  Chellapandi, Vishnu Pandi and Yuan, Liangqi and Brinton, Christopher G and Żak, Stanislaw H and Wang, Ziran.
+  Chellapandi, Vishnu Pandi and Yuan, Liangqi and Brinton, Christopher G and Żak, Stanislaw H and Wang, Ziran. [[Paper](https://ieeexplore.ieee.org/abstract/document/10316635)]
 
 - **LLM-based Intelligent Q\&A System for Railway Locomotive Maintenance Standardization.** `Scientific Reports` `2025`
 
-  Chen, Ao and Tian, Ye and Zhang, Jinyi and Li, Chen and Zhang, Huiyuan.
+  Chen, Ao and Tian, Ye and Zhang, Jinyi and Li, Chen and Zhang, Huiyuan. [[Paper](https://www.nature.com/articles/s41598-025-96130-3)]
 
 - **Safety Evaluation of Protected Bike Lane Treatments at Intersections: A Causal Framework.** `Accident; Analysis and Prevention` `2025`
 
-  Dai, Bingyou and Wang, Xuesong and Guo, Qiming and Yang, Lu and Bai, Yu.
+  Dai, Bingyou and Wang, Xuesong and Guo, Qiming and Yang, Lu and Bai, Yu. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0001457525002180)]
 
 - **Fedparking: A Federated Learning Based Parking Space Estimation with Parked Vehicle Assisted Edge Computing.** `IEEE Transactions on Vehicular Technology` `2021`
 
-  Huang, Xumin and Li, Peichun and Yu, Rong and Wu, Yuan and Xie, Kan and Xie, Shengli.
+  Huang, Xumin and Li, Peichun and Yu, Rong and Wu, Yuan and Xie, Kan and Xie, Shengli. [[Paper](https://ieeexplore.ieee.org/abstract/document/9492053)]
 
 - **Blockchain and Federated Learning for Collaborative Intrusion Detection in Vehicular Edge Computing.** `IEEE Transactions on Vehicular Technology` `2021`
 
-  Liu, Hong and Zhang, Shuaipeng and Zhang, Pengfei and Zhou, Xinqiang and Shao, Xuebin and Pu, Geguang and Zhang, Yan.
+  Liu, Hong and Zhang, Shuaipeng and Zhang, Pengfei and Zhou, Xinqiang and Shao, Xuebin and Pu, Geguang and Zhang, Yan. [[Paper](https://ieeexplore.ieee.org/abstract/document/9420262)]
 
 - **Collision Risk Prediction and Takeover Requirements Assessment Based on Radar-Video Integrated Sensors Data: A System Framework Based on LLM.** `Accident; Analysis and Prevention` `2025`
 
-  Liu, Qingchao and Yu, Ruohan and Cai, Yingfeng and Yuan, Quan and Wei, Henglai and Lv, Chen.
-
-
+  Liu, Qingchao and Yu, Ruohan and Cai, Yingfeng and Yuan, Quan and Wei, Henglai and Lv, Chen. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0001457525001277)]
 
 - **Intelligent Operation, Maintenance, and Control System for Public Building: Towards Infection Risk Mitigation and Energy Efficiency.** `Sustainable Cities and Society` `2023`
 
-  Ren, Chen and Zhu, Hao-Cheng and Wang, Junqi and Feng, Zhuangbo and Chen, Gang and Haghighat, Fariborz and Cao, Shi-Jie.
+  Ren, Chen and Zhu, Hao-Cheng and Wang, Junqi and Feng, Zhuangbo and Chen, Gang and Haghighat, Fariborz and Cao, Shi-Jie. [[Paper](https://www.sciencedirect.com/science/article/pii/S2210670723001440)]
 
 - **LLM-optimized Wavelet Packet Transform for Synchronous Condenser Fault Prediction.** `PloS One` `2025`
 
-  Zhang, Dongqing and Zhang, Chaofeng and Kadoch, Michel and Hong, Tao and Li, Shenglong and Zhao, Wenqiang.
+  Zhang, Dongqing and Zhang, Chaofeng and Kadoch, Michel and Hong, Tao and Li, Shenglong and Zhao, Wenqiang. [[Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330429)]
 
 - **SafeTraffic Copilot: Adapting Large Language Models for Trustworthy Traffic Safety Assessments and Decision Interventions.** `Nature Communications` `2025`
 
-  Zhao, Yang and Wang, Pu and Zhao, Yibo and Du, Hongru and Yang, Hao Frank.
+  Zhao, Yang and Wang, Pu and Zhao, Yibo and Du, Hongru and Yang, Hao Frank. [[Paper](https://www.nature.com/articles/s41467-025-64574-w)]
+
   
 </details>
 
@@ -653,53 +653,54 @@
 <details>
 <summary></summary>
 
-  - **A Large Language Model for Advanced Power Dispatch.** `Scientific Reports` `2025`
+ - **A Large Language Model for Advanced Power Dispatch.** `Scientific Reports` `2025`
 
-  Cheng, Yuheng and Zhao, Huan and Zhou, Xiyuan and Zhao, Junhua and Cao, Yuji and Yang, Chao and Cai, Xinlei.
+  Cheng, Yuheng and Zhao, Huan and Zhou, Xiyuan and Zhao, Junhua and Cao, Yuji and Yang, Chao and Cai, Xinlei. [[Paper](https://www.nature.com/articles/s41598-025-91940-x)]
 
 - **Multi-Objective Power Supply Restoration in Distribution Networks Based on Graph Calculation and Information Collected by Multi-Source Sensors.** `Sensors (Basel, Switzerland)` `2025`
 
-  Dang, Jian and Zhang, Shaopeng and Wang, Yile and Yan, Yunjiang and Jia, Rong and Liu, Guangyi.
+  Dang, Jian and Zhang, Shaopeng and Wang, Yile and Yan, Yunjiang and Jia, Rong and Liu, Guangyi. [[Paper](https://www.mdpi.com/1424-8220/25/3/768)]
 
 - **Integrating Large Language Models into Fluid Antenna Systems: A Survey.** `Sensors (Basel, Switzerland)` `2025`
 
-  Deng, Tingsong and Gao, Yan and Zhang, Tong and Shao, Mingjie and Ni, Wanli and Xu, Hao.
+  Deng, Tingsong and Gao, Yan and Zhang, Tong and Shao, Mingjie and Ni, Wanli and Xu, Hao. [[Paper](https://www.mdpi.com/1424-8220/25/16/5177)]
 
 - **Large-Scale Hydropower System Optimization Using Dynamic Programming and Object-Oriented Programming: The Case of the Northeast China Power Grid.** `Water Science and Technology: A Journal of the International Association on Water Pollution Research` `2013`
 
-  Li, Ji-Qing and Zhang, Yu-Shan and Ji, Chang-Ming and Wang, Ai-Jing and Lund, Jay R..
+  Li, Ji-Qing and Zhang, Yu-Shan and Ji, Chang-Ming and Wang, Ai-Jing and Lund, Jay R.. [[Paper](https://iwaponline.com/wst/article-abstract/68/11/2458/18164/Large-scale-hydropower-system-optimization-using)]
 
 - **[Applications and challenges of large language models in critical care medicine].** `Zhonghua Yi Xue Za Zhi` `2023`
 
-  Su, L. X. and Weng, L. and Li, W. X. and Long, Y..
+  Su, L. X. and Weng, L. and Li, W. X. and Long, Y.. [[Paper](https://europepmc.org/article/med/37599212)]
 
 - **Electrical Load Forecasting Using Edge Computing and Federated Learning.** `IEEE` `2020`
 
-  Taïk, Afaf and Cherkaoui, Soumaya.
+  Taïk, Afaf and Cherkaoui, Soumaya. [[Paper](https://ieeexplore.ieee.org/abstract/document/9148937)]
 
 - **DeepGut: A Collaborative Multimodal Large Language Model Framework for Digestive Disease Assisted Diagnosis and Treatment.** `World Journal of Gastroenterology` `2025`
 
-  Wan, Xiao-Han and Liu, Mei-Xia and Zhang, Yan and Kou, Guan-Jun and Xu, Lei-Qi and Liu, Han and Yang, Xiao-Yun and Zuo, Xiu-Li and Li, Yan-Qing.
+  Wan, Xiao-Han and Liu, Mei-Xia and Zhang, Yan and Kou, Guan-Jun and Xu, Lei-Qi and Liu, Han and Yang, Xiao-Yun and Zuo, Xiu-Li and Li, Yan-Qing. [[Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12400200/)]
 
 - **Leveraging Large Language Models for Automating Water Distribution Network Optimization.** `Water Research` `2025`
 
-  Wang, Jian and Fu, Guangtao and Savic, Dragan.
+  Wang, Jian and Fu, Guangtao and Savic, Dragan. [[Paper](https://www.sciencedirect.com/science/article/pii/S004313542501440X)]
 
 - **Feddetect: A Novel Privacy-Preserving Federated Learning Framework for Energy Theft Detection in Smart Grid.** `IEEE Internet of Things Journal` `2021`
 
-  Wen, Mi and Xie, Rong and Lu, Kejie and Wang, Liangliang and Zhang, Kai.
+  Wen, Mi and Xie, Rong and Lu, Kejie and Wang, Liangliang and Zhang, Kai. [[Paper](https://ieeexplore.ieee.org/abstract/document/9531953)]
 
 - **Enhancing Domain-Specific Text Generation for Power Grid Maintenance with P2FT.** `Scientific Reports` `2024`
 
-  Yang, Yi and Li, Chenhao and Zhu, Binghang and Zheng, Wenjie and Zhang, Fengda and Li, Zhuangzhuang.
+  Yang, Yi and Li, Chenhao and Zhu, Binghang and Zheng, Wenjie and Zhang, Fengda and Li, Zhuangzhuang. [[Paper](https://www.nature.com/articles/s41598-024-78078-y)]
 
 - **[Fault Analysis and Treatment of GE Brivo MR355 1.5 T Magnetic Resonance Gradient System and Cooling System].** `Zhongguo Yi Liao Qi Xie Za Zhi = Chinese Journal of Medical Instrumentation` `2022`
 
-  Zhang, Ji and Du, Guimin and Wang, Mengmeng.
+  Zhang, Ji and Du, Guimin and Wang, Mengmeng. [[Paper](https://europepmc.org/article/med/36597403)]
 
 - **Investigation of the Impact of Main Control Room Digitalization on Operators Cognitive Reliability in Nuclear Power Plants.** `Work (Reading, Mass.)` `2012`
 
-  Zhou, Yong and Mu, Haiying and Jiang, Jianjun and Zhang, Li.
+  Zhou, Yong and Mu, Haiying and Jiang, Jianjun and Zhang, Li. [[Paper](https://journals.sagepub.com/doi/abs/10.3233/WOR-2012-0231-714)]
+
   
 </details>
 
@@ -709,19 +710,19 @@
 
   - **A Differentially Privacy Assisted Federated Learning Scheme to Preserve Data Privacy for IoMT Applications.** `IEEE Transactions on Network and Service Management` `2024`
 
-  Barnawi, Ahmed and Chhikara, Prateek and Tekchandani, Rajkumar and Kumar, Neeraj and Alzahrani, Bander.
+  Barnawi, Ahmed and Chhikara, Prateek and Tekchandani, Rajkumar and Kumar, Neeraj and Alzahrani, Bander. [[Paper](https://ieeexplore.ieee.org/abstract/document/10509607)]
 
 - **Fedhealth: A Federated Transfer Learning Framework for Wearable Healthcare.** `IEEE Intelligent Systems` `2020`
 
-  Chen, Yiqiang and Qin, Xin and Wang, Jindong and Yu, Chaohui and Gao, Wen.
+  Chen, Yiqiang and Qin, Xin and Wang, Jindong and Yu, Chaohui and Gao, Wen. [[Paper](https://ieeexplore.ieee.org/abstract/document/9076082)]
 
 - **Federated Learning for Predicting Clinical Outcomes in Patients with COVID-19.** `Nature Medicine` `2021`
 
-  Dayan, Ittai and Roth, Holger R and Zhong, Aoxiao and Harouni, Ahmed and Gentili, Amilcare and Abidin, Anas Z and Liu, Andrew and Costa, Anthony Beardsworth and Wood, Bradford J and Tsai, Chien-Sung and others.
+  Dayan, Ittai and Roth, Holger R and Zhong, Aoxiao and Harouni, Ahmed and Gentili, Amilcare and Abidin, Anas Z and Liu, Andrew and Costa, Anthony Beardsworth and Wood, Bradford J and Tsai, Chien-Sung and others. [[Paper](https://www.nature.com/articles/s41591-021-01506-3)]
 
 - **Systematic Evaluation of Manufacturer Disclosure Statements for Medical Device Security (MDS2) to Strengthen Hospital OT Security Measures - Lessons Learned.** `Studies in Health Technology and Informatics` `2025`
 
-  Stein, Stefan and Pilgermann, Michael and Sedlmayr, Martin.
+  Stein, Stefan and Pilgermann, Michael and Sedlmayr, Martin. [[Paper](https://ebooks.iospress.nl/doi/10.3233/SHTI251404)]
 
 - **An AI-Based System Utilizing IoT-Enabled Ambient Sensors and LLMs for Complex Activity Tracking.** `arXiv` `2024`
 
@@ -729,8 +730,8 @@
 
 - **Automated Pancreas Segmentation Using Multi-Institutional Collaborative Deep Learning.** `Springer` `2020`
 
-  Wang, Pochuan and Shen, Chen and Roth, Holger R and Yang, Dong and Xu, Daguang and Oda, Masahiro and Misawa, Kazunari and Chen, Po-Ting and Liu, Kao-Lang and Liao, Wei-Chih and others.
-  
+  Wang, Pochuan and Shen, Chen and Roth, Holger R and Yang, Dong and Xu, Daguang and Oda, Masahiro and Misawa, Kazunari and Chen, Po-Ting and Liu, Kao-Lang and Liao, Wei-Chih and others. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-60548-3_19)]
+
 </details>
 
 
@@ -749,4 +750,3 @@
 ---
 
 ## VII. CONCLUSION
-
