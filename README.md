@@ -78,13 +78,29 @@
 
   Zhong, Aoxiao and Mo, Dengyao and Liu, Guiyang and Liu, Jinbu and Lu, Qingda and Zhou, Qi and Wu, Jiesheng and Li, Quanzheng and Wen, Qingsong. [[Paper](https://doi.org/10.1145/3637528.3671810)]
 
-  - **Multimodal Large Language Model-Enabled Machine Intelligent Fault Diagnosis Method with Non-Contact Dynamic Vision Data.** `Sensors (Basel, Switzerland)` `2025`
-
-  Lu, Zihan and Sun, Cuiying and Li, Xiang.
-
 - **VisionLLM: Large Language Model Is Also an Open-Ended Decoder for Vision-Centric Tasks.** `Advances in Neural Information Processing Systems` `2023`
 
   Wang, Wenhai and Chen, Zhe and Chen, Xiaokang and Wu, Jiannan and Zhu, Xizhou and Zeng, Gang and Luo, Ping and Lu, Tong and Zhou, Jie and Qiao, Yu and Dai, Jifeng. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c1f7b1ed763e9c75e4db74b49b76db5f-Abstract-Conference.html)]
+
+  - **A Comparative Study on Large Language Models for Log Parsing.** `Association for Computing Machinery` `2024`
+
+  Astekin, Merve and Hort, Max and Moonen, Leon. [[Paper](https://dl.acm.org/doi/10.1145/3674805.3686684)]
+
+- **PILAR: Studying and Mitigating the Influence of Configurations on Log Parsing.** `ICSE` `2023`
+
+  Dai, Hetong and Tang, Yiming and Li, Heng and Shang, Weiyi. [[Paper](https://ieeexplore.ieee.org/document/10172821)]
+
+- **Execution Anomaly Detection in Distributed Systems through Unstructured Log Analysis.** `IEEE` `2009`
+
+  Fu, Qiang and Lou, Jian-Guang and Wang, Yi and Li, Jiang. [[Paper](https://ieeexplore.ieee.org/abstract/document/5360240)]
+
+- **Multimodal LLM for Intelligent Transportation Systems.** `arXiv` `2024`
+
+  Le, Dexter and Yunusoglu, Aybars and Tiwari, Karn and Isik, Murat and Dikmen, I. Can. [[Paper](http://arxiv.org/abs/2412.11683)]
+
+- **The Dynamic Sensor Data Description and Data Format Conversion Language:.** `SCITEPRESS - Science and Technology Publications` `2018`
+
+  Mezei, Gergely and Somogyi, Ferenc A. and Farkas, Károly. [[Paper](http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0006912203720380)]
 
 </details>
 
@@ -105,6 +121,38 @@
 - **A Text-Based Knowledge-Embedded Soft Sensing Modeling Approach for General Industrial Process Tasks Based on Large Language Model.** `arXiv` `2025`
 
   Tong, Shuo and Liu, Han and Guo, Runyuan and Tian, Xueqiong and Wang, Wenqing and Liu, Ding and Zhang, Youmin. [[Paper](http://arxiv.org/abs/2501.05075)]
+
+  - **Data Science through Natural Language with ChatGPT’s Code Interpreter.** `Translational and Clinical Pharmacology` `2024`
+
+  Ahn, Sangzin. [[Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC11224898/)]
+
+- **Beagle: Automated Extraction and Interpretation of Visualizations from the Web.** `Association for Computing Machinery` `2018`
+
+  Battle, Leilani and Duan, Peitong and Miranda, Zachery and Mukusheva, Dana and Chang, Remco and Stonebraker, Michael. [[Paper](https://dl.acm.org/doi/10.1145/3173574.3174168)]
+
+- **A Survey on In-context Learning.** `arXiv` `2024`
+
+  Dong, Qingxiu and Li, Lei and Dai, Damai and Zheng, Ce and Ma, Jingyuan and Li, Rui and Xia, Heming and Xu, Jingjing and Wu, Zhiyong and Liu, Tianyu and Chang, Baobao and Sun, Xu and Li, Lei and Sui, Zhifang. [[Paper](http://arxiv.org/abs/2301.00234)]
+
+- **AnomalyGPT: Detecting Industrial Anomalies Using Large Vision-Language Models.** `Proceedings of the AAAI Conference on Artificial Intelligence` `2024`
+
+  Gu, Zhaopeng and Zhu, Bingke and Zhu, Guibo and Chen, Yingying and Tang, Ming and Wang, Jinqiao. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27963)]
+
+- **Feature Extraction of Rotor Fault Based on EEMD and Curve Code** `Measurement` `2019`
+
+  Liu, Dong and Xiao, Zhihuai and Hu, Xiao and Zhang, Congxin and Malik, O. P.. [[Paper](https://www.sciencedirect.com/science/article/pii/S0263224118311540)]
+
+- **BearLLM: A Prior Knowledge-Enhanced Bearing Health Management Framework with Unified Vibration Signal Representation.** `Proceedings of the AAAI Conference on Artificial Intelligence` `2025`
+
+  Peng, Haotian and Liu, Jiawei and Du, Jinsong and Gao, Jie and Wang, Wei. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34188)]
+
+- **FD-LLM: Large Language Model for Fault Diagnosis of Machines.** `arXiv` `2024`
+
+  Qaid, Hamzah A. A. M. and Zhang, Bo and Li, Dan and Ng, See-Kiong and Li, Wei. [[Paper](http://arxiv.org/abs/2412.01218)]
+
+- **KG-SR-LLM: Knowledge-Guided Semantic Representation and Large Language Model Framework for Cross-Domain Bearing Fault Diagnosis.** `Sensors (Basel, Switzerland)` `2025`
+
+  Xiao, Chengyong and Liu, Xiaowei and Wulamu, Aziguli and Zhang, Dezheng. [[Paper](https://www.mdpi.com/1424-8220/25/18/5758)]
 
 
 </details>
@@ -148,6 +196,26 @@
 - **LLM-TSFD: An Industrial Time Series Human-in-the-Loop Fault Diagnosis Method Based on a Large Language Model.** `Expert Systems with Applications` `2025`
 
   Zhang, Qi and Xu, Chao and Li, Jie and Sun, Yicheng and Bao, Jinsong and Zhang, Dan. [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417424027283)]
+
+  - **CvAMoS—Event Abstraction Using Contextual Information.** `Future Internet` `2023`
+
+  Di Federico, Gemma and Burattin, Andrea. [[Paper](https://www.mdpi.com/1999-5903/15/3/113)]
+
+- **Process Model Discovery from Sensor Event Data.** `Springer International Publishing` `2021`
+
+  Janssen, Dominik and Mannhardt, Felix and Koschmider, Agnes and family=Zelst, given=Sebastiaan J., prefix=van, useprefix=true.
+
+- **Log-Based Anomaly Detection Without Log Parsing.** `ASE` `2021`
+
+  Le, Van-Hoang and Zhang, Hongyu. [[Paper](https://ieeexplore.ieee.org/abstract/document/9678773)]
+
+- **Log-Based Anomaly Detection with Deep Learning: How Far Are We?.** `Association for Computing Machinery` `2022`
+
+  Le, Van-Hoang and Zhang, Hongyu. [[Paper](https://doi.org/10.1145/3510003.3510155)]
+
+- **Multimodal Large Language Model-Enabled Machine Intelligent Fault Diagnosis Method with Non-Contact Dynamic Vision Data.** `Sensors` `2025`
+
+  Lu, Zihan and Sun, Cuiying and Li, Xiang. [[Paper](https://www.mdpi.com/1424-8220/25/18/5898)]
   
 </details>
 
@@ -183,6 +251,34 @@
 
   Zhang, Haochen and Dong, Yuyang and Xiao, Chuan and Oyamada, Masafumi. [[Paper](http://arxiv.org/abs/2308.16361)]
 
+  - **Machine Learning/Artificial Intelligence for Sensor Data Fusion–Opportunities and Challenges.** `IEEE Aerospace and Electronic Systems Magazine` `2021`
+
+  Blasch, Erik and Pham, Tien and Chong, Chee-Yee and Koch, Wolfgang and Leung, Henry and Braines, Dave and Abdelzaher, Tarek. [[Paper](https://ieeexplore.ieee.org/abstract/document/9475913)]
+
+- **Language Models Are Few-Shot Learners.** `Advances in Neural Information Processing Systems` `2020`
+
+  Brown, Tom and Mann, Benjamin and Ryder, Nick and Subbiah, Melanie and Kaplan, Jared D. and Dhariwal, Prafulla and Neelakantan, Arvind and Shyam, Pranav and Sastry, Girish and Askell, Amanda and Agarwal, Sandhini and Herbert-Voss, Ariel and Krueger, Gretchen and Henighan, Tom and Child, Rewon and Ramesh, Aditya and Ziegler, Daniel and Wu, Jeffrey and Winter, Clemens and Hesse, Chris and Chen, Mark and Sigler, Eric and Litwin, Mateusz and Gray, Scott and Chess, Benjamin and Clark, Jack and Berner, Christopher and McCandlish, Sam and Radford, Alec and Sutskever, Ilya and Amodei, Dario. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html?utm_source=transaction&utm_medium=email&utm_campaign=linkedin_newsletter)]
+
+- **Multisensor Data Fusion | SpringerLink.** `Online` `2025`
+
+  Durrant-Whyte, Hugh, and. [[Paper](https://link.springer.com/chapter/10.1007/978-3-319-32552-1_35)]
+
+- **A Novel Approach of Multisensory Fusion to Collaborative Fault Diagnosis in Maintenance.** `Information Fusion` `2021`
+
+  Haidong Shao ，Jing Lin b,. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253521000622)]
+
+- **MultiSurf-GPT: Facilitating Context-Aware Reasoning with Large-Scale Language Model Agents for Multimodal Surface Sensing | Adjunct Proceedings of the 26th International Conference on Mobile Human-Computer Interaction.** `ACM Conferences` `2025`
+
+  Hu, Yongquan, Black Sun, Pengcheng An, Zhuying Li, Wen Hu, and. [[Paper](https://dl.acm.org/doi/abs/10.1145/3640471.3680450)]
+
+- **Using Multi-Sensor Data Fusion for Vibration Fault Diagnosis of Rolling Element Bearings by Accelerometer and Load Cell.** `Information Fusion` `2014`
+
+  M.S. Safizadeh. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253513001012)]
+
+- **2MNet: Multi-sensor and Multi-Scale Model toward Accurate Fault Diagnosis of Rolling Bearing.** `Reliability Engineering \& System Safety` `2021`
+
+  Yang Guan. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0951832021005263)]
+
 </details>
 
 ### B. LLMs as a Reasoning Engine
@@ -195,6 +291,10 @@
 - **Causal Inference.** `Engineering` `2020`
 
   Kun Kuang. [[Paper](https://www.sciencedirect.com/science/article/pii/S2095809919305235)]
+
+ - **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models.** `Advances in Neural Information Processing Systems` `2022`
+
+  Wei, Jason and Wang, Xuezhi and Schuurmans, Dale and Bosma, Maarten and Ichter, Brian and Xia, Fei and Chi, Ed and Le, Quoc V. and Zhou, Denny. [[Paper](https://proceedings.neurips.cc/paper/2022/hash/9d5609613524ecf4f15af0f7b31abca4-Abstract-Conference.html)]
   
 - **A Case-Based Reasoning System for Fault Detection and Isolation: A Case Study on Complex Gearboxes.** `Journal of Quality in Maintenance Engineering` `2019`
 
@@ -378,6 +478,11 @@
 - **Intelligent Fault Diagnosis and Visual Interpretability of Rotating Machinery Based on Residual Neural Network** `Measurement` `2022`
 
   Yu, Shihang and Wang, Min and Pang, Shanchen and Song, Limei and Qiao, Sibo. [[Paper](https://www.sciencedirect.com/science/article/pii/S0263224122004778)]
+
+  - **Failure Diagnosis Using Decision Trees.** `IEEE` `2004`
+
+  Chen, M. and Zheng, A.X. and Lloyd, J. and Jordan, M.I. and Brewer, E.. [[Paper](https://ieeexplore.ieee.org/abstract/document/1301345)]
+  
 </details>
 
 
