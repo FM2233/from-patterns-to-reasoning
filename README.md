@@ -1,12 +1,12 @@
 # 📘 Table of Contents
 
-- [II. PRELIMINARIES](#ii-preliminaries)
+- [II. Preliminaries](#ii-preliminaries)
   - [A. Prognostics Health Management](#a-prognostics-health-management)
     - [1) Fault Diagnosis](#1-fault-diagnosis)
     - [2) Remaining Useful Life Prediction](#2-remaining-useful-life-prediction)
   - [B. Large Language Models](#b-large-language-models)
   - [C. Pioneering Technologies in LLMs Progress](#c-pioneering-technologies-in-llms-progress)
-- [III. PROGNOSTICS HEALTH MANAGEMENT WITH LLMS](#iii-prognostics-health-management-with-llms)
+- [III. Prognostics Health Management with LLMs](#iii-prognostics-health-management-with-llms)
   - [A. LLMs as a Data Interpreter](#a-llms-as-a-data-interpreter)
     - [1) Structuring Sensor Data](#1-structuring-sensor-data)
     - [2) Generating Textual Descriptions from Visual Information](#2-generating-textual-descriptions-from-visual-information)
@@ -18,14 +18,14 @@
   - [C. LLMs as a Knowledge Integrator](#c-llms-as-a-knowledge-integrator)
     - [1) Enhancement based on Knowledge Graph (KG)](#1-enhancement-based-on-knowledge-graph-kg)
     - [2) Enhancement based on Retrieval Enhanced Generation (RAG)](#2-enhancement-based-on-retrieval-enhanced-generation-rag)
-- [IV. EVALUATION AND DATA SOURCE](#iv-evaluation-and-data-source)
-- [V. DL-BASED VS LLM-BASED](#v-dl-based-vs-llm-based)
-- [VI. CHALLENGES AND FUTURE PROSPECTS](#vi-challenges-and-future-prospects)
-- [VII. CONCLUSION](#vii-conclusion)
+- [IV. Evaluation and Data Source](#iv-evaluation-and-data-source)
+- [V. DL-based vs LLM-based](#v-dl-based-vs-llm-based)
+- [VI. Challenges and Future Prospects](#vi-challenges-and-future-prospects)
+- [VII. Conclusion](#vii-conclusion)
 
 ---
 
-## II. PRELIMINARIES
+## II. Preliminaries
 
 
 ### A. Prognostics Health Management
@@ -44,7 +44,7 @@
 
 ---
 
-## III. PROGNOSTICS HEALTH MANAGEMENT WITH LLMS
+## III. Prognostics Health Management with LLMs
 ### A. LLMs as a Data Interpreter
 #### 1) Structuring Sensor Data
 <details>
@@ -495,7 +495,7 @@
 
 ---
 
-## IV. EVALUATION AND DATA SOURCE
+## IV. Evaluation and Data Source
 
 ### A. Industrial Manufacturing
 <details>
@@ -737,16 +737,16 @@
 
 ---
 
-## V. DL-BASED VS LLM-BASED
+## V. DL-based vs LLM-based
 
 
 
 
 ---
 
-## VI. CHALLENGES AND FUTURE PROSPECTS
+## VI. Challenges and Future Prospects
 
 
 ---
 
-## VII. CONCLUSION
+## VII. Conclusion
