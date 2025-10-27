@@ -82,7 +82,7 @@
 
   Wang, Wenhai and Chen, Zhe and Chen, Xiaokang and Wu, Jiannan and Zhu, Xizhou and Zeng, Gang and Luo, Ping and Lu, Tong and Zhou, Jie and Qiao, Yu and Dai, Jifeng. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c1f7b1ed763e9c75e4db74b49b76db5f-Abstract-Conference.html)]
 
-  - **A Comparative Study on Large Language Models for Log Parsing.** `Association for Computing Machinery` `2024`
+- **A Comparative Study on Large Language Models for Log Parsing.** `Association for Computing Machinery` `2024`
 
   Astekin, Merve and Hort, Max and Moonen, Leon. [[Paper](https://dl.acm.org/doi/10.1145/3674805.3686684)]
 
@@ -122,7 +122,7 @@
 
   Tong, Shuo and Liu, Han and Guo, Runyuan and Tian, Xueqiong and Wang, Wenqing and Liu, Ding and Zhang, Youmin. [[Paper](http://arxiv.org/abs/2501.05075)]
 
-  - **Data Science through Natural Language with ChatGPT’s Code Interpreter.** `Translational and Clinical Pharmacology` `2024`
+- **Data Science through Natural Language with ChatGPT’s Code Interpreter.** `Translational and Clinical Pharmacology` `2024`
 
   Ahn, Sangzin. [[Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC11224898/)]
 
@@ -197,7 +197,7 @@
 
   Zhang, Qi and Xu, Chao and Li, Jie and Sun, Yicheng and Bao, Jinsong and Zhang, Dan. [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417424027283)]
 
-  - **CvAMoS—Event Abstraction Using Contextual Information.** `Future Internet` `2023`
+- **CvAMoS—Event Abstraction Using Contextual Information.** `Future Internet` `2023`
 
   Di Federico, Gemma and Burattin, Andrea. [[Paper](https://www.mdpi.com/1999-5903/15/3/113)]
 
@@ -251,7 +251,7 @@
 
   Zhang, Haochen and Dong, Yuyang and Xiao, Chuan and Oyamada, Masafumi. [[Paper](http://arxiv.org/abs/2308.16361)]
 
-  - **Machine Learning/Artificial Intelligence for Sensor Data Fusion–Opportunities and Challenges.** `IEEE Aerospace and Electronic Systems Magazine` `2021`
+- **Machine Learning/Artificial Intelligence for Sensor Data Fusion–Opportunities and Challenges.** `IEEE Aerospace and Electronic Systems Magazine` `2021`
 
   Blasch, Erik and Pham, Tien and Chong, Chee-Yee and Koch, Wolfgang and Leung, Henry and Braines, Dave and Abdelzaher, Tarek. [[Paper](https://ieeexplore.ieee.org/abstract/document/9475913)]
 
@@ -292,7 +292,7 @@
 
   Kun Kuang. [[Paper](https://www.sciencedirect.com/science/article/pii/S2095809919305235)]
 
- - **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models.** `Advances in Neural Information Processing Systems` `2022`
+- **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models.** `Advances in Neural Information Processing Systems` `2022`
 
   Wei, Jason and Wang, Xuezhi and Schuurmans, Dale and Bosma, Maarten and Ichter, Brian and Xia, Fei and Chi, Ed and Le, Quoc V. and Zhou, Denny. [[Paper](https://proceedings.neurips.cc/paper/2022/hash/9d5609613524ecf4f15af0f7b31abca4-Abstract-Conference.html)]
   
@@ -351,7 +351,8 @@
 - **CausalKGPT: Industrial Structure Causal Knowledge-Enhanced Large Language Model for Cause Analysis of Quality Problems in Aerospace Product Manufacturing.** `Advanced Engineering Informatics` `2024`
 
   Zhou, Bin and Li, Xinyu and Liu, Tianyuan and Xu, Kaizhou and Liu, Wei and Bao, Jinsong. [[Paper](https://www.sciencedirect.com/science/article/pii/S1474034623004615)]
-  - **A Modeling and Probabilistic Reasoning Method of Dynamic Uncertain Causality Graph for Industrial Fault Diagnosis.** `International Journal of Automation and Computing` `2014`
+  
+- **A Modeling and Probabilistic Reasoning Method of Dynamic Uncertain Causality Graph for Industrial Fault Diagnosis.** `International Journal of Automation and Computing` `2014`
 
   Dong, Chun-Ling and Zhang, Qin and Geng, Shi-Chao. [[Paper](https://doi.org/10.1007/s11633-014-0791-8)]
 
@@ -382,12 +383,21 @@
 - **Causal Discriminative Modeling for Robust Cloud Service Fault Detection.** `Journal of Computer Technology and Software` `2024`
 
   Wang, Heyi. [[Paper](https://ashpress.org/index.php/jcts/article/view/193)]
+
+- **Navigate through Enigmatic Labyrinth A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future.** `arXiv` `2024`
+
+  Chu, Zheng and Chen, Jingchang and Chen, Qianglong and Yu, Weijiang and He, Tao and Wang, Haotian and Peng, Weihua and Liu, Ming and Qin, Bing and Liu, Ting. [[Paper](http://arxiv.org/abs/2309.15402)]
+  
 </details>
 
 
 #### 2) Self-Correction and Feedback-Driven Reasoning Improvement
 <details>
 <summary></summary>
+
+- **Training Language Models to Follow Instructions with Human Feedback.** `Advances in Neural Information Processing Systems` `2022`
+
+  Ouyang, Long and Wu, Jeffrey and Jiang, Xu and Almeida, Diogo and Wainwright, Carroll and Mishkin, Pamela and Zhang, Chong and Agarwal, Sandhini and Slama, Katarina and Ray, Alex and Schulman, John and Hilton, Jacob and Kelton. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)]
 
 - **QueryAgent: A Reliable and Efficient Reasoning Framework with Environmental Feedback-based Self-Correction.** `arXiv` `2024`
 
@@ -405,7 +415,7 @@
 
   Paul, Debjit and Ismayilzada, Mete and Peyrard, Maxime and Borges, Beatriz and Bosselut, Antoine and West, Robert and Faltings, Boi. [[Paper](http://arxiv.org/abs/2304.01904)]
 
-  - **RL4F: Generating Natural Language Feedback with Reinforcement Learning for Repairing Model Outputs.** `Association for Computational Linguistics` `2023`
+- **RL4F: Generating Natural Language Feedback with Reinforcement Learning for Repairing Model Outputs.** `Association for Computational Linguistics` `2023`
 
   Akyurek, Afra Feyza and Akyurek, Ekin and Kalyan, Ashwin and Clark, Peter and Wijaya, Derry Tanti and Tandon, Niket. [[Paper](https://aclanthology.org/2023.acl-long.427/)]
 
@@ -479,7 +489,7 @@
 
   Yu, Shihang and Wang, Min and Pang, Shanchen and Song, Limei and Qiao, Sibo. [[Paper](https://www.sciencedirect.com/science/article/pii/S0263224122004778)]
 
-  - **Failure Diagnosis Using Decision Trees.** `IEEE` `2004`
+- **Failure Diagnosis Using Decision Trees.** `IEEE` `2004`
 
   Chen, M. and Zheng, A.X. and Lloyd, J. and Jordan, M.I. and Brewer, E.. [[Paper](https://ieeexplore.ieee.org/abstract/document/1301345)]
   
@@ -594,6 +604,34 @@
 - **KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents.** `arXiv` `2025`
 
   Zhu, Yuqi and Qiao, Shuofei and Ou, Yixin and Deng, Shumin and Lyu, Shiwei and Shen, Yue and Liang, Lei and Gu, Jinjie and Chen, Huajun and Zhang, Ningyu. [[Paper](http://arxiv.org/abs/2403.03101)]
+
+- **The Power of Noise: Redefining Retrieval for RAG Systems | Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval.** `ACM Conferences` `2025`
+
+  Cuconasu, Florin and. [[Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3657834)]
+
+- **Vul-RAG: Enhancing LLM-based Vulnerability Detection via Knowledge-level RAG.** `arXiv` `2025`
+
+  Du, Xueying and Zheng, Geng and Wang, Kaixin and Zou, Yi and Wang, Yujia and Deng, Wentai and Feng, Jiayi and Liu, Mingwei and Chen, Bihuan and Peng, Xin and Ma, Tao and Lou, Yiling. [[Paper](http://arxiv.org/abs/2406.11147)]
+
+- **T-RAG: Lessons from the LLM Trenches.** `arXiv` `2024`
+
+  Fatehkia, Masoomali and Lucas, Ji Kim and Chawla, Sanjay. [[Paper](http://arxiv.org/abs/2402.07483)]
+
+- **RAG in Health Care: A Novel Framework for Improving Communication and Decision-Making by Addressing LLM Limitations | NEJM AI.** `Online` `2025`
+
+  Karen Ka Yan Ng, PharmD. and Izuki Matsuba, B.A.. [[Paper](https://ai.nejm.org/doi/abs/10.1056/AIra2400380)]
+
+- **How Much Can RAG Help the Reasoning of LLM?.** `arXiv` `2024`
+
+  Liu, Jingyu and Lin, Jiaen and Liu, Yong. [[Paper](https://arxiv.org/abs/2410.02338v2)]
+
+- **BioRAG: A RAG-LLM Framework for Biological Question Reasoning.** `arXiv` `2024`
+
+  Wang, Chengrui and Long, Qingqing and Xiao, Meng and Cai, Xunxin and Wu, Chengjun and Meng, Zhen and Wang, Xuezhi and Zhou, Yuanchun. [[Paper](http://arxiv.org/abs/2408.01107)]
+
+- **Financial Analysis: Intelligent Financial Data Analysis System Based on LLM-RAG.** `arXiv` `2025`
+
+  Wang, Jingru and Ding, Wen and Zhu, Xiaotong. [[Paper](http://arxiv.org/abs/2504.06279)]
 
 </details>
 
