@@ -837,6 +837,22 @@
 
   Wang, Pochuan and Shen, Chen and Roth, Holger R and Yang, Dong and Xu, Daguang and Oda, Masahiro and Misawa, Kazunari and Chen, Po-Ting and Liu, Kao-Lang and Liao, Wei-Chih and others. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-60548-3_19)]
 
+  - **Applying LLMs for Analysis of AI/ML Medical Device Approvals.** `Studies in Health Technology and Informatics` `2025`
+
+  family=Amaral, given=Diogo Monteiro, prefix=do, useprefix=true and Wang, Ying and Magrabi, Farah. [[Paper](https://pubmed.ncbi.nlm.nih.gov/40776237/)]
+
+- **Leveraging LLMs to Understand Narratives in MAUDE Reports.** `Studies in Health Technology and Informatics` `2025`
+
+  Shi, Yuheng and Gong, Yang. [[Paper](https://pubmed.ncbi.nlm.nih.gov/40200473/)]
+
+- **The Transformative Potential of Large Language Models in Mining Electronic Health Records Data: Content Analysis.** `JMIR medical informatics` `2025`
+
+  Wals Zurita, Amadeo Jesus and Miras Del Rio, Hector and Ugarte Ruiz de Aguirre, Nerea and Nebrera Navarro, Cristina and Rubio Jimenez, Maria and Muñoz Carmona, David and Miguez Sanchez, Carlos. [[Paper](https://pubmed.ncbi.nlm.nih.gov/39746191/)]
+
+- **Critical Care Studies Using Large Language Models Based on Electronic Healthcare Records: A Technical Note.** `Journal of Intensive Medicine` `2025`
+
+  Zhang, Zhongheng and Ni, Hongying. [[Paper](https://pubmed.ncbi.nlm.nih.gov/40241837/)]
+
 </details>
 
 
