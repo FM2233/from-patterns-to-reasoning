@@ -8,8 +8,8 @@
   - [C. Pioneering Technologies in LLMs Progress](#c-pioneering-technologies-in-llms-progress)
 - [III. Prognostics Health Management with LLMs](#iii-prognostics-health-management-with-llms)
   - [A. LLMs as a Data Interpreter](#a-llms-as-a-data-interpreter)
-    - [1) Structuring Sensor Data](#1-structuring-sensor-data)
-    - [2) Generating Textual Descriptions from Visual Information](#2-generating-textual-descriptions-from-visual-information)
+    - [1) Structuring Data](#1-structuring-data)
+    - [2) Generating Textual Descriptions from Information](#2-generating-textual-descriptions-from-information)
     - [3) Abstracting Events from Logs](#3-abstracting-events-from-logs)
     - [4) Fusing Multimodal Information](#4-fusing-multimodal-information)
   - [B. LLMs as a Reasoning Engine](#b-llms-as-a-reasoning-engine)
@@ -46,7 +46,7 @@
 
 ## III. Prognostics Health Management with LLMs
 ### A. LLMs as a Data Interpreter
-#### 1) Structuring Sensor Data
+#### 1) Structuring Data
 <details>
 <summary></summary>
 
@@ -104,7 +104,7 @@
 
 </details>
 
-#### 2) Generating Textual Descriptions from Visual Information
+#### 2) Generating Textual Descriptions from Information
 <details>
 <summary></summary>
 
