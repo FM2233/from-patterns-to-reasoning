@@ -76,7 +76,7 @@
 
   Vidyaratne, Lasitha and Lee, Xian Yeow and Kumar, Aman and Watanabe, Tsubasa and Farahat, Ahmed and Gupta, Chetan. [[Paper](https://ieeexplore.ieee.org/abstract/document/10626823)]
 
-- **Knowledge Graph-Based In-Context Learning for Advanced Fault Diagnosis in Sensor Networks.** `Sensors (Basel, Switzerland)` `2024`
+- **Knowledge Graph-Based In-Context Learning for Advanced Fault Diagnosis in Sensor Networks.** `Sensors` `2024`
 
   Xie, Xin and Wang, Junbo and Han, Yu and Li, Wenjuan. [[Paper](https://doi.org/10.3390/s24248086)]
 
@@ -91,7 +91,7 @@
 
   Minami, Takanobu and Ji, Dai-Yan and Jay, Lee. [[Paper](http://papers.phmsociety.org/index.php/phmconf/article/view/4376)]
 
-- **LEAD - Framework for Efficient Time-Series Anomaly Detection on Large Scale Data Using LLMs.** `Online` `2025`
+- **LEAD - Framework for Efficient Time-Series Anomaly Detection on Large Scale Data Using LLMs.** `1st ICML Workshop on Foundation Models for Structured Data` `2025`
 
   Chandrayan, Akash and Zidi, Amir and Reimherr, Matthew and Mjirda, Anis and Pradhan, Abhinav. [[Paper](https://openreview.net/forum?id=HoSiVFhJas)]
 
@@ -200,7 +200,11 @@
 - **Large Language Models Perform Diagnostic Reasoning.** `arXiv` `2023`
 
   Wu, Cheng-Kuang and Chen, Wei-Lin and Chen, Hsin-Hsi. [[Paper](http://arxiv.org/abs/2307.08922)]
+  
+- **Causal Inference Based Transfer Learning with LLMs: An Efficient Framework for Industrial RUL Prediction.** `arXiv` `2025`
 
+  Chen, Yan and Liu, Cheng. [[Paper](http://arxiv.org/abs/2503.17686)]
+  
 - **Semantic Anomaly Detection with Large Language Models.** `Autonomous Robots` `2023`
 
   Elhafsi, A. and Sinha, R. and Agia, C. and Schmerling, E. and Nesnas, I. A. and Pavone, M.. [[Paper](https://link.springer.com/article/10.1007/s10514-023-10132-6)]
@@ -220,6 +224,14 @@
 - **DrHouse: An LLM-empowered Diagnostic Reasoning System through Harnessing Outcomes from Sensor Data and Expert Knowledge.** `Proc. ACM` `2024`
 
   Yang, Bufang and Jiang, Siyang and Xu, Lilin and Liu, Kaiwei and Li, Hai and Xing, Guoliang and Chen, Hongkai and Jiang, Xiaofan and Yan, Zhenyu. [[Paper](https://dl.acm.org/doi/10.1145/3699765)]
+
+- **Knowledge-Augmented Zero-Shot Method for Power Equipment Defect Grading with Chain-of-Thought LLMs.** `Electronics` `2025`
+
+  Du, Jianguang and Li, Bo and Chen, Zhenyu and Shen, Lian and Liu, Pufan and Ran, Zhongyang. [[Paper](https://www.mdpi.com/2079-9292/14/15/3101)]
+
+- **Multi Large Language Model Collaboration Framework for Few-Shot Link Prediction in Evolutionary Fault Diagnosis Event Graphs.** `Journal of Process Control` `2025`
+
+  Wang, Tian and Wang, Ping and Yang, Feng and Wang, Shuai and Fang, Qiang and Chi, Meng. [[Paper](https://www.sciencedirect.com/science/article/pii/S0959152424001823)]
   
   
 #### 2) Interpretability of Diagnostic Process
@@ -256,6 +268,14 @@
 
   Zhang, Yiheng and Cao, Yunkang and Xu, Xiaohao and Shen, Weiming. [[Paper](https://ieeexplore.ieee.org/abstract/document/10710633)]
 
+- **A Quantitative and Qualitative Evaluation of LLM-Based Explainable Fault Localization.** `Proc. ACM Softw. Eng.` `2024`
+
+  Kang, Sungmin and An, Gabin and Yoo, Shin. [[Paper](https://dl.acm.org/doi/10.1145/3660771)]
+
+- **Graph Structure-Enhanced Large Language Model for Optical Network Fault Diagnosis: An Explainable Alarm Root Cause Localization Approach.** `IEEE Internet of Things Journal` `2025`
+
+  Wang, Yidi and Pang, Yue and Liu, Yanli and Zhang, Yao and Zhang, Lifang and Zhang, Min and Wang, Danshi. [[Paper](https://ieeexplore.ieee.org/abstract/document/11012654)]
+
 
 ### C. LLMs as a Knowledge Integrator
 
@@ -264,7 +284,6 @@
 - **Large Language Model Assisted Fine-Grained Knowledge Graph Construction for Robotic Fault Diagnosis.** `Advanced Engineering Informatics` `2025`
 
   Liao, X. and Chen, C. and Wang, Z. and Liu, Y. and Wang, T. and Cheng, L.. [[Paper](https://doi.org/10.1016/j.aei.2025.103134)]
-
 
 - **Fault Diagnosis and System Maintenance Based on Large Language Models and Knowledge Graphs.** `IEEE` `2023`
 
@@ -290,7 +309,7 @@
 
   Mao, Zehui and Wang, Huan and Jiang, Bin and Xu, Juan and Guo, Huifeng. [[Paper](https://ieeexplore.ieee.org/abstract/document/10454020)]
 
-- **A Context-Aware KG-LLM Collaborated Conceptual Design Approach for Personalized Products: A Case in Lower Limbs Rehabilitation Assistive Devices.** `Online` `2025`
+- **A Context-Aware KG-LLM Collaborated Conceptual Design Approach for Personalized Products: A Case in Lower Limbs Rehabilitation Assistive Devices.** `Advanced engineering informatics` `2025`
 
   Pan, X. and Zhuang, W. and Wen, S. and Yu, W. and Bao, J. and Li, X.. [[Paper](https://doi.org/10.1016/j.aei.2025.103422)]
 
@@ -324,6 +343,22 @@
 - **Empowering ChatGPT-like Large-Scale Language Models with Local Knowledge Base for Industrial Prognostics and Health Management.** `arXiv` `2023`
 
   Wang, H. and Li, Y.-F.. [[Paper](https://doi.org/10.48550/arXiv.2312.14945)]
+
+- **Automating Industrial Quality Control: A Multimodal LLM and RAG Framework for Anomaly Detection.** `Springer Nature Switzerland` `2025`
+
+  Bianchini, Filippo and Calamo, Marco and Marinacci, Matteo and Rossi, Jacopo and Mecella, Massimo.
+
+- **LLM-Driven Fault Detection and RAG-Based Diagnostics for O-RAN Base Stations.** `IEEE` `2025`
+
+  Chen, Yu-An. [[Paper](https://ieeexplore.ieee.org/abstract/document/11208059)]
+
+- **Iterative Search-Based RAG: Using Iterative Retrieval for Efficient Large Language Model Enhancement in Industrial Fault Diagnosis.** `IEEE` `2025`
+
+  Xu, Jiamin and Chen, Zhiwen and Jiang, Zhaohui and Zhao, Dong and Li, Linlin. [[Paper](https://ieeexplore.ieee.org/abstract/document/11087829)]
+
+- **A Large Language Model Question Answering System for Power System Equipment Fault Diagnosis Based on RAGFlow.** `MRAI` `2025`
+
+  Zhang, Qi and Zhang, Zhi. [[Paper](https://ieeexplore.ieee.org/abstract/document/11135758)]
 
 ---
 
