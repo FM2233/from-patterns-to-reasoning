@@ -54,11 +54,7 @@
 
 - **Advancing Multimodal Diagnostics: Integrating Industrial Textual Data and Domain Knowledge with Large Language Models.** `Expert Systems with Applications` `2024`
 
-  Jose, S. and Nguyen, K. T. P. and Medjaher, K. and Zemouri, R. and Lévesque, M. and Tahan, A.. [[Paper](https://doi.org/10.1016/j.eswa.2024.124603)]
-
-- **Bridging Expert Knowledge and Sensor Measurements for Machine Fault Quantification with Large Language Models.** `IEEE International Conference` `2024`
-
-  Jose, Sagar and Nguyen, Khanh T.P and Medjaher, Kamal and Zemouri, Ryad and Lévesque, Mélanie and Tahan, Antoine. [[Paper](https://ieeexplore.ieee.org/abstract/document/10637229)]
+  Jose, S. and Nguyen, K. T. P. and Medjaher, K. and Zemouri, R. and Lévesque, M. and Tahan, A. [[Paper](https://doi.org/10.1016/j.eswa.2024.124603)]
 
 - **BearLLM: A Prior Knowledge-Enhanced Bearing Health Management Framework with Unified Vibration Signal Representation.** `Proceedings of the AAAI Conference on Artificial Intelligence` `2025`
 
@@ -70,7 +66,11 @@
 
 - **LLM-based Framework for Bearing Fault Diagnosis.** `Mechanical Systems and Signal Processing` `2025`
 
-  Tao, L. and Liu, H. and Ning, G. and Cao, W. and Huang, B. and Lu, C.. [[Paper](https://doi.org/10.1016/j.ymssp.2024.112127)]
+  Tao, L. and Liu, H. and Ning, G. and Cao, W. and Huang, B. and Lu, C. [[Paper](https://doi.org/10.1016/j.ymssp.2024.112127)]
+
+ - **Bridging Expert Knowledge and Sensor Measurements for Machine Fault Quantification with Large Language Models.** `IEEE International Conference` `2024`
+
+  Jose, Sagar and Nguyen, Khanh T.P and Medjaher, Kamal and Zemouri, Ryad and Lévesque, Mélanie and Tahan, Antoine. [[Paper](https://ieeexplore.ieee.org/abstract/document/10637229)]
 
 - **Generating Troubleshooting Trees for Industrial Equipment Using Large Language Models (LLM).** `IEEE` `2024`
 
@@ -97,7 +97,7 @@
 
 - **Remaining Useful Life Prediction: A Study on Multidimensional Industrial Signal Processing and Efficient Transfer Learning Based on Large Language Models.** `arXiv` `2024`
 
-  Chen, Y. and Liu, C.. [[Paper](https://doi.org/10.48550/arXiv.2410.03134)]
+  Chen, Y. and Liu, C. [[Paper](https://doi.org/10.48550/arXiv.2410.03134)]
 
 - **LLM-Based Fault Detection in Connected Vehicle Time-Series Data.** `Association for Computing Machinery` `2025`
 
@@ -105,7 +105,7 @@
 
 - **Physics and Data Collaborative Root Cause Analysis: Integrating Pretrained Large Language Models and Data-Driven AI for Trustworthy Asset Health Management.** `Annual conference PHM society` `2024`
 
-  Huang, H. and Shah, T. and Karigiannis, J. and Evans, S.. [[Paper](https://doi.org/10.36001/phmconf.2024.v16i1.3881)]
+  Huang, H. and Shah, T. and Karigiannis, J. and Evans, S. [[Paper](https://doi.org/10.36001/phmconf.2024.v16i1.3881)]
 
 - **Large Language Models for Fault Detection in Buildings’ HVAC Systems.** `Springer Nature Switzerland` `2025`
 
@@ -125,7 +125,7 @@
 
 - **LLMTSFD: An Industrial Time Series Human-in-the-Loop Fault Diagnosis Method Based on a Large Language Model.** `Expert Systems with Applications` `2025`
 
-  Zhang, Q. and Xu, C. and Li, J. and Sun, Y. and Bao, J. and Zhang, D.. [[Paper](https://doi.org/10.1016/j.eswa.2024.125861)]
+  Zhang, Q. and Xu, C. and Li, J. and Sun, Y. and Bao, J. and Zhang, D. [[Paper](https://doi.org/10.1016/j.eswa.2024.125861)]
 
 - **How Large AI Model Empowers Time-Series Forecasting for the Operation and Maintenance of Industrial Automation System?.** `IEEE Transactions on Industrial Informatics` `2025`
 
@@ -140,7 +140,7 @@
 
 - **LLM-based Event Log Analysis Techniques: A Survey.** `arXiv` `2025`
 
-  Akhtar, S. and Khan, S. and Parkinson, S.. [[Paper](https://doi.org/10.48550/arXiv.2502.00677)]
+  Akhtar, S. and Khan, S. and Parkinson, S. [[Paper](https://doi.org/10.48550/arXiv.2502.00677)]
 
 - **Virtual Machine Proactive Fault Tolerance Using Log-Based Anomaly Detection.** `IEEE Access` `2024`
 
@@ -159,7 +159,7 @@
 
 - **Multimodal Large Language Model-Based Fault Detection and Diagnosis in Context of Industry 4.0.** `Electronics` `2024`
 
-  Alsaif, K. M. and Albeshri, A. A. and Khemakhem, M. A. and Eassa, F. E.. [[Paper](https://doi.org/10.3390/electronics13244912)]
+  Alsaif, K. M. and Albeshri, A. A. and Khemakhem, M. A. and Eassa, F. E. [[Paper](https://doi.org/10.3390/electronics13244912)]
 
 - **FD-LLM: Large Language Model for Fault Diagnosis of Complex Equipment.** `Advanced Engineering Informatics` `2025`
 
@@ -167,7 +167,7 @@
 
 - **FaultGPT: Industrial Fault Diagnosis Question Answering System by Vision Language Models.** `arXiv` `2025`
 
-  Chen, J. and Huang, R. and Lv, Z. and Tang, J. and Li, W..
+  Chen, J. and Huang, R. and Lv, Z. and Tang, J. and Li, W. [[paper](https://doi.org/10.48550/arXiv.2502.15481)]
 
 - **Towards a Self-Cognitive Complex Product Design System: A Fine-Grained Multi-Modal Feature Recognition and Semantic Understanding Approach Using Large Language Models in Mechanical Engineering.** `Advanced Engineering Informatics` `2025`
 
@@ -183,7 +183,7 @@
 
 - **Empowering Digital Twins with Large Language Models for Global Temporal Feature Learning.** `Journal of Manufacturing Systems` `2024`
 
-  Sun, Y. and Zhang, Q. and Bao, J. and Lu, Y. and Liu, S.. [[Paper](https://doi.org/10.1016/j.jmsy.2024.02.015)]
+  Sun, Y. and Zhang, Q. and Bao, J. and Lu, Y. and Liu, S. [[Paper](https://doi.org/10.1016/j.jmsy.2024.02.015)]
 
 - **Multi-Sensor Information Fusion and Coordinate Attention-Based Fault Diagnosis Method and Its Interpretability Research.** `Engineering Applications of Artificial Intelligence` `2023`
 
@@ -207,7 +207,7 @@
   
 - **Semantic Anomaly Detection with Large Language Models.** `Autonomous Robots` `2023`
 
-  Elhafsi, A. and Sinha, R. and Agia, C. and Schmerling, E. and Nesnas, I. A. and Pavone, M.. [[Paper](https://link.springer.com/article/10.1007/s10514-023-10132-6)]
+  Elhafsi, A. and Sinha, R. and Agia, C. and Schmerling, E. and Nesnas, I. A. and Pavone, M. [[Paper](https://link.springer.com/article/10.1007/s10514-023-10132-6)]
 
 - **Probing a Novel Machine Tool Fault Reasoning and Maintenance Service Recommendation Approach through Data-Knowledge Empowered LLMs Integrated with AR-assisted Maintenance Guidance.** `Advanced Engineering Informatics` `2025`
 
@@ -250,7 +250,7 @@
 
 - **Integrating LLMs for Explainable Fault Diagnosis in Complex Systems.** `arXiv` `2024`
 
-  Dave, A. J. and Nguyen, T. N. and Vilim, R. B.. [[Paper](https://doi.org/10.48550/arXiv.2402.06695)]
+  Dave, A. J. and Nguyen, T. N. and Vilim, R. B. [[Paper](https://doi.org/10.48550/arXiv.2402.06695)]
 
 - **FaultExplainer: Leveraging Large Language Models for Interpretable Fault Detection and Diagnosis.** `Computers \& Chemical Engineering` `2025`
 
@@ -262,7 +262,7 @@
 
 - **The Interpretable Reasoning and Intelligent Decision-Making Based on Event Knowledge Graph with LLMs in Fault Diagnosis Scenarios.** `IEEE Transactions on Instrumentation \& Measurement` `2025`
 
-  Men, C. and Han, Y. and Wang, P. and Tao, J. and Huang, C.-G.. [[Paper](https://ieeexplore.ieee.org/abstract/document/10925425)]
+  Men, C. and Han, Y. and Wang, P. and Tao, J. and Huang, C.-G. [[Paper](https://ieeexplore.ieee.org/abstract/document/10925425)]
 
 - **LogiCode: An LLM-Driven Framework for Logical Anomaly Detection.** `IEEE Transactions on Automation Science and Engineering` `2025`
 
@@ -283,7 +283,7 @@
 
 - **Large Language Model Assisted Fine-Grained Knowledge Graph Construction for Robotic Fault Diagnosis.** `Advanced Engineering Informatics` `2025`
 
-  Liao, X. and Chen, C. and Wang, Z. and Liu, Y. and Wang, T. and Cheng, L.. [[Paper](https://doi.org/10.1016/j.aei.2025.103134)]
+  Liao, X. and Chen, C. and Wang, Z. and Liu, Y. and Wang, T. and Cheng, L. [[Paper](https://doi.org/10.1016/j.aei.2025.103134)]
 
 - **Fault Diagnosis and System Maintenance Based on Large Language Models and Knowledge Graphs.** `IEEE` `2023`
 
@@ -291,7 +291,7 @@
 
 - **Intelligent Fault Diagnosis for CNC through the Integration of Large Language Models and Domain Knowledge Graphs.** `Engineering` `2025`
 
-  Liu, Y. and Zhou, Y. and Liu, Y. and Xu, Z. and He, Y.. [[Paper](https://doi.org/10.1016/j.eng.2025.04.003)]
+  Liu, Y. and Zhou, Y. and Liu, Y. and Xu, Z. and He, Y. [[Paper](https://doi.org/10.1016/j.eng.2025.04.003)]
 
 - **Joint Knowledge Graph and Large Language Model for Fault Diagnosis and Its Application in Aviation Assembly.** `IEEE Transactions on Industrial Informatics` `2024`
 
@@ -303,7 +303,7 @@
 
 - **A Knowledge-Graph Enhanced Large Language Model-Based Fault Diagnostic Reasoning and Maintenance Decision Support Pipeline towards Industry 5.0.** `International Journal of Production Research` `2025`
 
-  Ma, Y. and Zheng, S. and Yang, Z. and Pan, H. and Hong, J.. [[Paper](https://www.sci-hub.vg/10.1080/00207543.2025.2472298)]
+  Ma, Y. and Zheng, S. and Yang, Z. and Pan, H. and Hong, J. [[Paper](https://www.sci-hub.vg/10.1080/00207543.2025.2472298)]
 
 - **Graph Convolutional Neural Network for Intelligent Fault Diagnosis of Machines via Knowledge Graph.** `IEEE Transactions on Industrial Informatics` `2024`
 
@@ -311,7 +311,7 @@
 
 - **A Context-Aware KG-LLM Collaborated Conceptual Design Approach for Personalized Products: A Case in Lower Limbs Rehabilitation Assistive Devices.** `Advanced engineering informatics` `2025`
 
-  Pan, X. and Zhuang, W. and Wen, S. and Yu, W. and Bao, J. and Li, X.. [[Paper](https://doi.org/10.1016/j.aei.2025.103422)]
+  Pan, X. and Zhuang, W. and Wen, S. and Yu, W. and Bao, J. and Li, X. [[Paper](https://doi.org/10.1016/j.aei.2025.103422)]
 
 - **CausalKGPT: Industrial Structure Causal Knowledge-Enhanced Large Language Model for Cause Analysis of Quality Problems in Aerospace Product Manufacturing.** `Advanced Engineering Informatics` `2024`
 
@@ -330,7 +330,7 @@
 
 - **ChatCNC: Conversational Machine Monitoring via Large Language Model and Real-Time Data Retrieval Augmented Generation.** `Journal of Manufacturing Systems` `2025`
 
-  Jeon, J. and al.. [[Paper](https://doi.org/10.1016/j.jmsy.2025.01.018)]
+  Jeon, J. and al. [[Paper](https://doi.org/10.1016/j.jmsy.2025.01.018)]
 
  - **FaultLines-Evaluating the Efficacy of Open-Source Large Language Models for Fault Detection in Cyber-Physical Systems** `IEEE` `2024`
 
@@ -338,11 +338,11 @@
 
 - **LLM-R: A Framework for Domain-Adaptive Maintenance Scheme Generation Combining Hierarchical Agents and RAG.** `arXiv` `2024`
 
-  Tao, L. and al.. [[Paper](https://doi.org/10.48550/arXiv.2411.04476)]
+  Tao, L. and al. [[Paper](https://doi.org/10.48550/arXiv.2411.04476)]
 
 - **Empowering ChatGPT-like Large-Scale Language Models with Local Knowledge Base for Industrial Prognostics and Health Management.** `arXiv` `2023`
 
-  Wang, H. and Li, Y.-F.. [[Paper](https://doi.org/10.48550/arXiv.2312.14945)]
+  Wang, H. and Li, Y.-F. [[Paper](https://doi.org/10.48550/arXiv.2312.14945)]
 
 - **Automating Industrial Quality Control: A Multimodal LLM and RAG Framework for Anomaly Detection.** `Springer Nature Switzerland` `2025`
 
@@ -368,7 +368,7 @@
 
 - **Industrial Maintenance Optimization Based on the Integration of Large Language Models (LLM) and Augmented Reality (AR).** `European Symposium on Artificial Intelligence in Manufacturing` `2024`
 
-  Angelopoulos, J. and Manettas, C. and Alexopoulos, K.. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-86489-6_20)]
+  Angelopoulos, J. and Manettas, C. and Alexopoulos, K. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-86489-6_20)]
 
 - **Consultation on Industrial Machine Faults with Large Language Models.** `arXiv` `2024`
 
@@ -376,39 +376,35 @@
 
 - **UniFault: A Fault Diagnosis Foundation Model from Bearing Data.** `arXiv` `2025`
 
-  Eldele, A. and al.. [[Paper](https://doi.org/10.48550/arXiv.2504.01373)]
+  Eldele, A. and al. [[Paper](https://doi.org/10.48550/arXiv.2504.01373)]
 
-- **Full Ceramic Bearing Fault Diagnosis with Few-Shot Learning Using GPT-2..** `Computer Modeling in Engineering \& Sciences (CMES)` `2025`
+- **Full Ceramic Bearing Fault Diagnosis with Few-Shot Learning Using GPT-2.** `Computer Modeling in Engineering \& Sciences (CMES)` `2025`
 
   He, David and He, Miao and Yoon, Jay. [[Paper](https://openurl.ebsco.com/contentitem/doi:10.32604%2Fcmes.2025.063975?sid=ebsco:plink:crawler&id=ebsco:doi:10.32604%2Fcmes.2025.063975)]
 
 - **Brain-like Cognition-Driven Model Factory for IIoT Fault Diagnosis by Combining LLMs with Small Models.** `IEEE Internet of Things Journal` `2024`
 
-  Liu, Y. and al.. [[Paper](https://ieeexplore.ieee.org/abstract/document/10758839)]
+  Liu, Y. and al. [[Paper](https://ieeexplore.ieee.org/abstract/document/10758839)]
 
 - **Application of Adaptive Wavelet Transform for Gear Fault Diagnosis Using Modified-LLMS Based Filtered Vibration Signal.** `Recent Advances in Electrical \& Electronic Engineering` `2019`
 
-  Sahoo, Sudarsan and Das, Jitendra K.. [[Paper](https://doi.org/10.2174/2352096511666180525123616)]
+  Sahoo, Sudarsan and Das, Jitendra K. [[Paper](https://doi.org/10.2174/2352096511666180525123616)]
 
 - **An Intelligent Industrial Visual Monitoring and Maintenance Framework Empowered by Large-Scale Visual and Language Models.** `IEEE Transactions on Industrial Cyber-Physical Systems` `2024`
 
-  Wang, H. and Li, C. and Li, Y.-F. and Tsung, F.. [[Paper](https://ieeexplore.ieee.org/document/10557154)]
-
-- **Large-Scale Visual Language Model Boosted by Contrast Domain Adaptation for Intelligent Industrial Visual Monitoring.** `IEEE Transactions on Industrial Informatics` `2024`
-
-  Wang, H. and Li, C. and Li, Y.-F.. [[Paper](https://doi.org/10.2174/2352096511666180525123616)]
+  Wang, H. and Li, C. and Li, Y.-F. and Tsung, F. [[Paper](https://ieeexplore.ieee.org/document/10557154)]
 
 - **RmGPT: Rotating Machinery Generative Pretrained Model.** `arXiv` `2024`
 
-  Wang, Y. and al.. [[Paper](https://doi.org/10.48550/arXiv.2409.17604)]
+  Wang, Y. and al. [[Paper](https://doi.org/10.48550/arXiv.2409.17604)]
 
 - **An Innovative Foundation Model for Bearing Prognostics and Health Management through Pretrained Large Language Models.** `SSRN Electronic Journal` `2025`
 
-  Wang, W. and Wang, D.. [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5127433)]
+  Wang, W. and Wang, D. [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5127433)]
 
 - **FCLLM-DT: Empowering Federated Continual Learning with Large Language Models for Digital-Twin-Based Industrial IoT.** `IEEE Internet of Things Journal` `2025`
 
-  Xia, Y. and al.. [[Paper](https://ieeexplore.ieee.org/document/10795863)]
+  Xia, Y. and al. [[Paper](https://ieeexplore.ieee.org/document/10795863)]
 
 - **A Multimodal Expert System for the Intelligent Monitoring and Maintenance of Transformers Enhanced by Multimodal Language Large Model Fine-Tuning and Digital Twins.** `IET Collaborative Intelligent Manufacturing` `2024`
 
@@ -416,7 +412,11 @@
 
 - **Domain Generalization Prognosis Method for Lithium-Ion Battery State of Health with Transformer and Multi-Kernel MMD.** `Journal of Dynamic Monitoring \& Diagnostics` `2024`
 
-  Zhu, Y. and Guo, T. and Li, X. and Zhang, Y. and Zhang, W.. [[Paper](https://doi.org/10.37965/jdmd.2024.594)]
+  Zhu, Y. and Guo, T. and Li, X. and Zhang, Y. and Zhang, W. [[Paper](https://doi.org/10.37965/jdmd.2024.594)]
+
+- **Large-Scale Visual Language Model Boosted by Contrast Domain Adaptation for Intelligent Industrial Visual Monitoring.** `IEEE Transactions on Industrial Informatics` `2024`
+
+  Wang, H. and Li, C. and Li, Y.-F. [[Paper](https://ieeexplore.ieee.org/abstract/document/10666846)]
 
 ### B. Aerospace
 
@@ -455,13 +455,13 @@
 
   Bolton, Regan and Sheikhfathollahi, Mohammadreza and Parkinson, Simon and Basher, Dan and Parkinson, Howard. [[Paper](http://arxiv.org/abs/2504.14044)]
 
-- **Knowledge Graph Construction and Application for Fault Diagnosis of Onboard Equipment of Train Control Systems..** `Railway Standard Design` `2025`
+- **Knowledge Graph Construction and Application for Fault Diagnosis of Onboard Equipment of Train Control Systems.** `Railway Standard Design` `2025`
 
-  Dan, L. I. U. and Zhenhai, Zhang and Qiuyu, Zhai and Jiale, Y. U.. [[Paper](https://openurl.ebsco.com/contentitem/doi:10.13238%2Fj.issn.1004-2954.202307060004?sid=ebsco:plink:crawler&id=ebsco:doi:10.13238%2Fj.issn.1004-2954.202307060004)]
+  Dan, L. I. U. and Zhenhai, Zhang and Qiuyu, Zhai and Jiale, Y. U. [[Paper](https://openurl.ebsco.com/contentitem/doi:10.13238%2Fj.issn.1004-2954.202307060004?sid=ebsco:plink:crawler&id=ebsco:doi:10.13238%2Fj.issn.1004-2954.202307060004)]
 
 - **Construction of EMU Fault Knowledge Graph Based on Large Language Model.** `Springer Nature` `2025`
 
-  Han, Ziwei and Wang, Hui and Li, Yaxin and Xu, Fangzhou.
+  Han, Ziwei and Wang, Hui and Li, Yaxin and Xu, Fangzhou.[[paper](https://link.springer.com/chapter/10.1007/978-981-96-0914-7_26)
 
 - **Adaptive Fault Diagnosis of Railway Vehicle On-Board Controller with Large Language Models.** `Applied Soft Computing` `2025`
 
