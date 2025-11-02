@@ -70,7 +70,7 @@
 
  - **Bridging Expert Knowledge and Sensor Measurements for Machine Fault Quantification with Large Language Models.** `IEEE International Conference` `2024`
 
-  Jose, Sagar and Nguyen, Khanh T.P and Medjaher, Kamal and Zemouri, Ryad and Lévesque, Mélanie and Tahan, Antoine. [[Paper](https://ieeexplore.ieee.org/abstract/document/10637229)]
+   Jose, Sagar and Nguyen, Khanh T.P and Medjaher, Kamal and Zemouri, Ryad and Lévesque, Mélanie and Tahan, Antoine. [[Paper](https://ieeexplore.ieee.org/abstract/document/10637229)]
 
 - **Generating Troubleshooting Trees for Industrial Equipment Using Large Language Models (LLM).** `IEEE` `2024`
 
@@ -334,7 +334,7 @@
 
  - **FaultLines-Evaluating the Efficacy of Open-Source Large Language Models for Fault Detection in Cyber-Physical Systems** `IEEE` `2024`
 
-  Mühlburger, Herbert and Wotawa, Franz. [[Paper](https://ieeexplore.ieee.org/abstract/document/10685216/references)]
+   Mühlburger, Herbert and Wotawa, Franz. [[Paper](https://ieeexplore.ieee.org/abstract/document/10685216/references)]
 
 - **LLM-R: A Framework for Domain-Adaptive Maintenance Scheme Generation Combining Hierarchical Agents and RAG.** `arXiv` `2024`
 
