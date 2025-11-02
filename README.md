@@ -84,6 +84,10 @@
 
   Gu, Zhaopeng and Zhu, Bingke and Zhu, Guibo and Chen, Yingying and Tang, Ming and Wang, Jinqiao. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27963)]
 
+- **Large Language Model Agents as Prognostics and Health Management Copilots.** `Annual conference PHM society` `2024`
+
+  Lukens, S. and McCabe, L. H. and Gen, J. and Ali, A. [[Paper](https://doi.org/10.36001/phmconf.2024.v16i1.3906)]
+
 
 #### 2) Time-Series Data Analysis
 
@@ -94,10 +98,6 @@
 - **LEAD - Framework for Efficient Time-Series Anomaly Detection on Large Scale Data Using LLMs.** `1st ICML Workshop on Foundation Models for Structured Data` `2025`
 
   Chandrayan, Akash and Zidi, Amir and Reimherr, Matthew and Mjirda, Anis and Pradhan, Abhinav. [[Paper](https://openreview.net/forum?id=HoSiVFhJas)]
-
-- **Remaining Useful Life Prediction: A Study on Multidimensional Industrial Signal Processing and Efficient Transfer Learning Based on Large Language Models.** `arXiv` `2024`
-
-  Chen, Y. and Liu, C. [[Paper](https://doi.org/10.48550/arXiv.2410.03134)]
 
 - **LLM-Based Fault Detection in Connected Vehicle Time-Series Data.** `Association for Computing Machinery` `2025`
 
@@ -157,6 +157,10 @@
 
 #### 4) Multimodal Information Fusing
 
+- **Remaining Useful Life Prediction: A Study on Multidimensional Industrial Signal Processing and Efficient Transfer Learning Based on Large Language Models.** `arXiv` `2024`
+
+  Chen, Y. and Liu, C. [[Paper](https://doi.org/10.48550/arXiv.2410.03134)]
+
 - **Multimodal Large Language Model-Based Fault Detection and Diagnosis in Context of Industry 4.0.** `Electronics` `2024`
 
   Alsaif, K. M. and Albeshri, A. A. and Khemakhem, M. A. and Eassa, F. E. [[Paper](https://doi.org/10.3390/electronics13244912)]
@@ -192,6 +196,10 @@
 - **T2MFDF: An LLM-Enhanced Multimodal Fault Diagnosis Framework Integrating Time-Series and Textual Data.** `IEEE Transactions on Instrumentation and Measurement` `2025`
 
   Zhou, Jiajing and Guo, Yuanjun and Yang, Zhile and Yang, Jinning and An, Zhao and Li, Kang and McLoone, Seán. [[Paper](https://ieeexplore.ieee.org/abstract/document/11052760)]
+
+- **VSLLaVA: A Pipeline of Large Multimodal Foundation Model for Industrial Vibration Signal Analysis.** `arXiv` `2024`
+
+  Li, Q. and al. [[Paper](https://doi.org/10.48550/arXiv.2409.07482)]
   
 ### B. LLMs as a Reasoning Engine
 
@@ -417,6 +425,9 @@
 - **Large-Scale Visual Language Model Boosted by Contrast Domain Adaptation for Intelligent Industrial Visual Monitoring.** `IEEE Transactions on Industrial Informatics` `2024`
 
   Wang, H. and Li, C. and Li, Y.-F. [[Paper](https://ieeexplore.ieee.org/abstract/document/10666846)]
+- **Pre-Trained Large Language Model Based Remaining Useful Life Transfer Prediction of Bearing.** `arXiv` `2025`
+
+  Tao, L. and al. [[Paper](https://doi.org/10.48550/arXiv.2501.07191)]
 
 ### B. Aerospace
 
