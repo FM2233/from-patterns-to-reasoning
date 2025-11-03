@@ -165,6 +165,10 @@
 
   Alsaif, K. M. and Albeshri, A. A. and Khemakhem, M. A. and Eassa, F. E. [[Paper](https://doi.org/10.3390/electronics13244912)]
 
+- **Defect Classification and Localization in Material Extrusion with Multi-Modal Large Language Models.** `IEEE` `2024`
+
+  Wu, G. and Cheng, C. T. and Pang, T. Y. [[Paper](https://ieeexplore.ieee.org/abstract/document/10874057)]
+
 - **FD-LLM: Large Language Model for Fault Diagnosis of Complex Equipment.** `Advanced Engineering Informatics` `2025`
 
   Lin, Lin and Zhang, Sihao and Fu, Song and Liu, Yikun. [[Paper](https://www.sciencedirect.com/science/article/pii/S1474034625001016)]
