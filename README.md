@@ -1,56 +1,50 @@
-# 📘 Table of Contents
+##  Table of Contents
+- [Paper List](#paper-list)
+  - [1 Preliminaries](#1-preliminaries)
+    - [1.1 Prognostics Health Management](#11-prognostics-health-management)
+      - [Fault Diagnosis](#fault-diagnosis)
+      - [Remaining Useful Life Prediction](#remaining-useful-life-prediction)
+    - [1.2 Large Language Models](#12-large-language-models)
+    - [1.3 Pioneering Technologies in LLMs Progress](#13-pioneering-technologies-in-llms-progress)
+  - [2 Prognostics Health Management with LLMs](#2-prognostics-health-management-with-llms)
+    - [2.1 LLMs as a Data Interpreter](#21-llms-as-a-data-interpreter)
+      - [Text Data Understanding](#text-data-understanding)
+      - [Time-Series Data Analysis](#time-series-data-analysis)
+      - [Multimodal Information Fusing](#multimodal-information-fusing)
+    - [2.2 LLMs as a Reasoning Engine](#22-llms-as-a-reasoning-engine)
+      - [Diagnostic Reasoning Chains and Causal Inference](diagnostic-reasoning-chains-and-causal-inference)
+      - [Interpretability of Diagnostic Process](interpretability-of-diagnostic-process)
+    - [2.3 LLMs as a Knowledge Integrator](#23-llms-as-a-knowledge-integrator)
+      - [Enhancement based on Knowledge Graph (KG)](enhancement-based-on-knowledge-graph-kg)
+      - [Enhancement based on Retrieval Enhanced Generation (RAG)](enhancement-based-on-retrieval-enhanced-generation-rag)
+  - [3 Application](#3-application)
+    - [3.1 Industrial Manufacturing](#31-industrial-manufacturing)
+    - [3.2 Aerospace](#32-aerospace)
+    - [3.3 Transportation](#33-transportation)
+    - [3.4 Energy and Power](#34-energy-and-power)
+  - [4 DL-based vs LLM-based](#4-dl-based-vs-llm-based)
+  - [5 Challenges and Future Prospects](#5-challenges-and-future-prospects)
+  - [6 Conclusion](#6-conclusion)
 
-- [II. Preliminaries](#ii-preliminaries)
-  - [A. Prognostics Health Management](#a-prognostics-health-management)
-    - [1) Fault Diagnosis](#1-fault-diagnosis)
-    - [2) Remaining Useful Life Prediction](#2-remaining-useful-life-prediction)
-  - [B. Large Language Models](#b-large-language-models)
-  - [C. Pioneering Technologies in LLMs Progress](#c-pioneering-technologies-in-llms-progress)
-- [III. Prognostics Health Management with LLMs](#iii-prognostics-health-management-with-llms)
-  - [A. LLMs as a Data Interpreter](#a-llms-as-a-data-interpreter)
-    - [1) Text Data Understanding](#1-text-data-understanding)
-    - [2) Time-Series Data Analysis](#2-time-series-data-analysis)
-    - [3) Log and Event Data Comprehension](#3-log-and-event-data-comprehension)
-    - [4) Multimodal Information Fusing](#4-multimodal-information-fusing)
-  - [B. LLMs as a Reasoning Engine](#b-llms-as-a-reasoning-engine)
-    - [1) Diagnostic Reasoning Chains and Causal Inference](#1-diagnostic-reasoning-chains-and-causal-inference)
-    - [2) Interpretability of Diagnostic Process](#2-interpretability-of-diagnostic-process)
-  - [C. LLMs as a Knowledge Integrator](#c-llms-as-a-knowledge-integrator)
-    - [1) Enhancement based on Knowledge Graph (KG)](#1-enhancement-based-on-knowledge-graph-kg)
-    - [2) Enhancement based on Retrieval Enhanced Generation (RAG)](#2-enhancement-based-on-retrieval-enhanced-generation-rag)
-- [IV. Evaluation and Data Source](#iv-evaluation-and-data-source)
-  - [A.Industrial Manufacturing](#a-industrial-manufacturing)
-  - [B. Aerospace](#b-aerospace)
-  - [C.Transportation](#c-transportation)
-  - [D. Energy and Power](#d-energy-and-power)
-- [V. DL-based vs LLM-based](#v-dl-based-vs-llm-based)
-- [VI. Challenges and Future Prospects](#vi-challenges-and-future-prospects)
-- [VII. Conclusion](#vii-conclusion)
+## Paper List
 
----
+### 1 Preliminaries
 
-## II. Preliminaries
+#### 1.1 Prognostics Health Management
 
+##### Fault Diagnosis
 
-### A. Prognostics Health Management
+##### Remaining Useful Life Prediction
 
+#### 1.2 Large Language Models
 
-#### 1) Fault Diagnosis
+#### 1.3 Pioneering Technologies in LLMs Progress
 
+### 2 Prognostics Health Management with LLMs
 
-#### 2) Remaining Useful Life Prediction
+#### 2.1 LLMs as a Data Interpreter
 
-
-### B. Large Language Models
-
-### C. Pioneering Technologies in LLMs Progress
-
-
----
-
-## III. Prognostics Health Management with LLMs
-### A. LLMs as a Data Interpreter
-#### 1) Text Data Understanding
+##### Text Data Understanding
 
 - **Advancing Multimodal Diagnostics: Integrating Industrial Textual Data and Domain Knowledge with Large Language Models.** `Expert Systems with Applications` `2024`
 
@@ -88,8 +82,7 @@
 
   Lukens, S. and McCabe, L. H. and Gen, J. and Ali, A. [[Paper](https://doi.org/10.36001/phmconf.2024.v16i1.3906)]
 
-
-#### 2) Time-Series Data Analysis
+##### Time-Series Data Analysis
 
 - **LLMs as Pre-trained Models for Time-Series Applications in PHM.** `Annual Conference of the PHM Society` `2025`
 
@@ -130,32 +123,12 @@
 - **How Large AI Model Empowers Time-Series Forecasting for the Operation and Maintenance of Industrial Automation System?.** `IEEE Transactions on Industrial Informatics` `2025`
 
   Zhang, Le and Cheng, Wei and Zhang, Shuo and Xing, Ji and Nie, Zelin and Chen, Xuefeng and Lan, Dapeng and Liu, Yu and Yang, Yun and Pang, Zhibo. [[Paper](https://ieeexplore.ieee.org/abstract/document/11089955)]
-  
 
-#### 3) Log and Event Data Comprehension
+##### Multimodal Information Fusing
 
-- **Demystifying and Extracting Fault-indicating Information from Logs for Failure Diagnosis.** `IEEE` `2024`
+- **DiagLLM: Multimodal Reasoning with Large Language Model for Explainable Bearing Fault Diagnosis.** `Science China Information Sciences` `2025`
 
-  Huang, Junjie and Jiang, Zhihan and Liu, Jinyang and Huo, Yintong and Gu, Jiazhen and Chen, Zhuangbin and Feng, Cong and Dong, Hui and Yang, Zengyin and Lyu, Michael R.. [[Paper](https://ieeexplore.ieee.org/abstract/document/10771299)]
-
-- **LLM-based Event Log Analysis Techniques: A Survey.** `arXiv` `2025`
-
-  Akhtar, S. and Khan, S. and Parkinson, S. [[Paper](https://doi.org/10.48550/arXiv.2502.00677)]
-
-- **Virtual Machine Proactive Fault Tolerance Using Log-Based Anomaly Detection.** `IEEE Access` `2024`
-
-  Senevirathne, Pratheek and Cooray, Samindu and Dinal Herath, Jerome and Fernando, Dinuni. [[Paper](https://ieeexplore.ieee.org/abstract/document/10767421)]
-
-- **Accurate and Interpretable Log-Based Fault Diagnosis Using Large Language Models.** `IEEE Transactions on Services Computing` `2025`
-
-  Sun, Yongqian and Ma, Shiyu and Xiao, Tong and Zhao, Yongxin and Cai, Xuhui and Dong, Wei and Shen, Yue and Zhao, Yao and Zhang, Shenglin and Han, Jing and Pei, Dan. [[Paper](https://ieeexplore.ieee.org/abstract/document/11126982)]
-
-- **ScalaLog: Scalable Log-Based Failure Diagnosis Using LLM.** `IEEE` `2025`
-
-  Zhang, Lingzhe and Jia, Tong and Jia, Mengxi and Wu, Yifan and Liu, Hongyi and Li, Ying. [[Paper](https://ieeexplore.ieee.org/abstract/document/10888670)]
-
-
-#### 4) Multimodal Information Fusing
+  Wang, Jie and Li, Tianrui and Yang, Yan and Chen, Shiqian and Zhai, Wanming. [[Paper](https://doi.org/10.1007/s11432-024-4333-7)]
 
 - **Remaining Useful Life Prediction: A Study on Multidimensional Industrial Signal Processing and Efficient Transfer Learning Based on Large Language Models.** `arXiv` `2024`
 
@@ -205,9 +178,9 @@
 
   Li, Q. and al. [[Paper](https://doi.org/10.48550/arXiv.2409.07482)]
   
-### B. LLMs as a Reasoning Engine
+#### 2.2 LLMs as a Reasoning Engine
 
-#### 1) Diagnostic Reasoning Chains and Causal Inference
+#####  Diagnostic Reasoning Chains and Causal Inference
 
 - **Large Language Models Perform Diagnostic Reasoning.** `arXiv` `2023`
 
@@ -245,8 +218,7 @@
 
   Wang, Tian and Wang, Ping and Yang, Feng and Wang, Shuai and Fang, Qiang and Chi, Meng. [[Paper](https://www.sciencedirect.com/science/article/pii/S0959152424001823)]
   
-  
-#### 2) Interpretability of Diagnostic Process
+#####  Interpretability of Diagnostic Process
 
 - **Large Language Models for Explainable Fault Diagnosis of Machines.** `Social Science Research Network` `2025`
 
@@ -288,10 +260,9 @@
 
   Wang, Yidi and Pang, Yue and Liu, Yanli and Zhang, Yao and Zhang, Lifang and Zhang, Min and Wang, Danshi. [[Paper](https://ieeexplore.ieee.org/abstract/document/11012654)]
 
+#### 2.3 LLMs as a Knowledge Integrator
 
-### C. LLMs as a Knowledge Integrator
-
-#### 1) Enhancement based on Knowledge Graph (KG)
+##### Enhancement based on Knowledge Graph (KG)
 
 - **Large Language Model Assisted Fine-Grained Knowledge Graph Construction for Robotic Fault Diagnosis.** `Advanced Engineering Informatics` `2025`
 
@@ -333,8 +304,7 @@
 
   Zhou, Bin and Li, Jie and Li, Xinyu and Hua, Bao and Bao, Jinsong. [[Paper](https://doi.org/10.1016/j.aei.2022.101799)]
   
-
-#### 2) Enhancement based on Retrieval Enhanced Generation (RAG)
+#### Enhancement based on Retrieval Enhanced Generation (RAG)
 
 - **Application of Retrieval-Augmented Generation for Interactive Industrial Knowledge Management via a Large Language Model.** `Computer Standards \& Interfaces` `2025`
 
@@ -371,12 +341,11 @@
 - **A Large Language Model Question Answering System for Power System Equipment Fault Diagnosis Based on RAGFlow.** `MRAI` `2025`
 
   Zhang, Qi and Zhang, Zhi. [[Paper](https://ieeexplore.ieee.org/abstract/document/11135758)]
+  
 
----
+### 3 Application
 
-## IV. Evaluation and Data Source
-
-### A. Industrial Manufacturing
+#### 3.1 Industrial Manufacturing
 
 - **Industrial Maintenance Optimization Based on the Integration of Large Language Models (LLM) and Augmented Reality (AR).** `European Symposium on Artificial Intelligence in Manufacturing` `2024`
 
@@ -433,7 +402,7 @@
 
   Tao, L. and al. [[Paper](https://doi.org/10.48550/arXiv.2501.07191)]
 
-### B. Aerospace
+#### 3.2 Aerospace
 
 - **Aircraft Anomaly Detection Using Large Language Models: An Air Traffic Control Application.** `American Institute of Aeronautics and Astronautics` `2025`
 
@@ -464,7 +433,7 @@
   Zhang, Feng and Pang, Chengjie and Zhang, Yuehan and Luo, Chenyu. [[Paper](http://arxiv.org/abs/2508.20420)]
   
 
-### C. Transportation
+#### 3.3 Transportation
 
 - **Multi-Stage Retrieval for Operational Technology Cybersecurity Compliance Using Large Language Models: A Railway Casestudy.** `arXiv` `2025`
 
@@ -486,7 +455,7 @@
 
   Wang, Huan and Li, Yan-Fu. [[Paper](https://link.springer.com/chapter/10.1007/978-981-99-9311-6_59)]
   
-### D. Energy and Power
+#### 3.4 Energy and Power
 
 - **Relative Position Contrast Learning Updated Temporal Convolutional Network Encoder Multivariate Time Series Large Language Model for the Fault Detection of Wind Turbines.** `Advanced Engineering Informatics` `2025`
 
@@ -517,19 +486,17 @@
   Zhang, Dongqing and Li, Shenglong and Hong, Tao and Zhang, Chaofeng and Zhao, Wenqiang. [[Paper](https://www.mdpi.com/2079-9292/14/2/308)]
 
 
-
----
-
-## V. DL-based vs LLM-based
+### 4 DL-based vs LLM-based
 
 
+### 5 Challenges and Future Prospects  
+
+#### 5.1 Critical Challeges in LLMs for PHM
 
 
----
 
-## VI. Challenges and Future Prospects
+#### 5.2 Future Research Directions
+##### Physics Informed LLM
 
 
----
-
-## VII. Conclusion
+### 6 Conclusion
