@@ -62,7 +62,7 @@
 
   Tao, L. and Liu, H. and Ning, G. and Cao, W. and Huang, B. and Lu, C. [[Paper](https://doi.org/10.1016/j.ymssp.2024.112127)]
 
- - **Bridging Expert Knowledge and Sensor Measurements for Machine Fault Quantification with Large Language Models.** `IEEE International Conference` `2024`
+- **Bridging Expert Knowledge and Sensor Measurements for Machine Fault Quantification with Large Language Models.** `IEEE International Conference` `2024`
 
    Jose, Sagar and Nguyen, Khanh T.P and Medjaher, Kamal and Zemouri, Ryad and Lévesque, Mélanie and Tahan, Antoine. [[Paper](https://ieeexplore.ieee.org/abstract/document/10637229)]
 
@@ -70,17 +70,13 @@
 
   Vidyaratne, Lasitha and Lee, Xian Yeow and Kumar, Aman and Watanabe, Tsubasa and Farahat, Ahmed and Gupta, Chetan. [[Paper](https://ieeexplore.ieee.org/abstract/document/10626823)]
 
-- **Knowledge Graph-Based In-Context Learning for Advanced Fault Diagnosis in Sensor Networks.** `Sensors` `2024`
+- **Pre-Trained Large Language Model Based Remaining Useful Life Transfer Prediction of Bearing.** `arXiv` `2025`
 
-  Xie, Xin and Wang, Junbo and Han, Yu and Li, Wenjuan. [[Paper](https://doi.org/10.3390/s24248086)]
+  Tao, Laifa and Zhao, Zhengduo and Wang, Xuesong and Li, Bin and Zhan, Wenchao and Su, Xuanyuan and Li, Shangyu and Huang, Qixuan and Liu, Haifei and Lu, Chen and Lian, Zhixuan. [[Paper](http://arxiv.org/abs/2501.07191)]
+  
+- **Empirical Study on Fine-Tuning Pre-Trained Large Language Models for Fault Diagnosis of Complex Systems.** `Reliability Engineering \& System Safety` `2024`
 
-- **AnomalyGPT: Detecting Industrial Anomalies Using Large Vision-Language Models.** `Proceedings of the AAAI Conference on Artificial Intelligence` `2024`
-
-  Gu, Zhaopeng and Zhu, Bingke and Zhu, Guibo and Chen, Yingying and Tang, Ming and Wang, Jinqiao. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27963)]
-
-- **Large Language Model Agents as Prognostics and Health Management Copilots.** `Annual conference PHM society` `2024`
-
-  Lukens, S. and McCabe, L. H. and Gen, J. and Ali, A. [[Paper](https://doi.org/10.36001/phmconf.2024.v16i1.3906)]
+  Zheng, S. and Pan, K. and Liu, J. and Chen, Y.. [[Paper](https://doi.org/10.1016/j.ress.2024.110382)]
 
 ##### Time-Series Data Analysis
 
@@ -120,9 +116,8 @@
 
   Zhang, Q. and Xu, C. and Li, J. and Sun, Y. and Bao, J. and Zhang, D. [[Paper](https://doi.org/10.1016/j.eswa.2024.125861)]
 
-- **How Large AI Model Empowers Time-Series Forecasting for the Operation and Maintenance of Industrial Automation System?.** `IEEE Transactions on Industrial Informatics` `2025`
-
-  Zhang, Le and Cheng, Wei and Zhang, Shuo and Xing, Ji and Nie, Zelin and Chen, Xuefeng and Lan, Dapeng and Liu, Yu and Yang, Yun and Pang, Zhibo. [[Paper](https://ieeexplore.ieee.org/abstract/document/11089955)]
+- **RmGPT: Rotating Machinery Generative Pretrained Model.** `arXiv` `2024`
+  Wang, Y. and al. [[Paper](https://doi.org/10.48550/arXiv.2409.17604)]
 
 ##### Multimodal Information Fusing
 
@@ -137,10 +132,6 @@
 - **Multimodal Large Language Model-Based Fault Detection and Diagnosis in Context of Industry 4.0.** `Electronics` `2024`
 
   Alsaif, K. M. and Albeshri, A. A. and Khemakhem, M. A. and Eassa, F. E. [[Paper](https://doi.org/10.3390/electronics13244912)]
-
-- **Defect Classification and Localization in Material Extrusion with Multi-Modal Large Language Models.** `IEEE` `2024`
-
-  Wu, G. and Cheng, C. T. and Pang, T. Y. [[Paper](https://ieeexplore.ieee.org/abstract/document/10874057)]
 
 - **FD-LLM: Large Language Model for Fault Diagnosis of Complex Equipment.** `Advanced Engineering Informatics` `2025`
 
@@ -158,10 +149,6 @@
 
   Li, Dayang and Pang, Zhibo and Chen, Yongxu and Yang, Kun and Shao, Jinyan and Luo, Yichen and Zeng, Yanghang and He, Chen and Gao, Yutong. [[Paper](https://www.sciencedirect.com/science/article/pii/S0888327025009276)]
 
-- **Using Multi-Sensor Data Fusion for Vibration Fault Diagnosis of Rolling Element Bearings by Accelerometer and Load Cell.** `Information Fusion` `2014`
-
-  M.S. Safizadeh. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253513001012)]
-
 - **Empowering Digital Twins with Large Language Models for Global Temporal Feature Learning.** `Journal of Manufacturing Systems` `2024`
 
   Sun, Y. and Zhang, Q. and Bao, J. and Lu, Y. and Liu, S. [[Paper](https://doi.org/10.1016/j.jmsy.2024.02.015)]
@@ -177,7 +164,20 @@
 - **VSLLaVA: A Pipeline of Large Multimodal Foundation Model for Industrial Vibration Signal Analysis.** `arXiv` `2024`
 
   Li, Q. and al. [[Paper](https://doi.org/10.48550/arXiv.2409.07482)]
+
+- **An Innovative Foundation Model for Bearing Prognostics and Health Management through Pretrained Large Language Models.** `SSRN Electronic Journal` `2025`
+
+  Wang, W. and Wang, D. [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5127433)]
   
+- **Channel Attention Residual Transfer Learning with LLM Fine-Tuning for Few-Shot Fault Diagnosis in Autonomous Underwater Vehicle Propellers.** `Ocean Engineering` `2025`
+
+  Du, Wenliao and Yu, Xinlong and Guo, Zhen and Wang, Hongchao and Gao, Yiyuan and Pu, Ziqiang and Li, Guanghua and Li, Chuan. [[Paper](https://www.sciencedirect.com/science/article/pii/S0029801825009503)]
+ 
+- **Brain-like Cognition-Driven Model Factory for IIoT Fault Diagnosis by Combining LLMs with Small Models.** `IEEE Internet of Things Journal` `2024`
+
+  Liu, Y. and al. [[Paper](https://ieeexplore.ieee.org/abstract/document/10758839)]
+
+
 #### 2.2 LLMs as a Reasoning Engine
 
 #####  Diagnostic Reasoning Chains and Causal Inference
@@ -375,10 +375,6 @@
 
   Wang, H. and Li, C. and Li, Y.-F. and Tsung, F. [[Paper](https://ieeexplore.ieee.org/document/10557154)]
 
-- **RmGPT: Rotating Machinery Generative Pretrained Model.** `arXiv` `2024`
-
-  Wang, Y. and al. [[Paper](https://doi.org/10.48550/arXiv.2409.17604)]
-
 - **An Innovative Foundation Model for Bearing Prognostics and Health Management through Pretrained Large Language Models.** `SSRN Electronic Journal` `2025`
 
   Wang, W. and Wang, D. [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5127433)]
@@ -492,11 +488,19 @@
 ### 5 Challenges and Future Prospects  
 
 #### 5.1 Critical Challeges in LLMs for PHM
-
+##### Data Scarcity and Quality
+##### Lack of Physical Knowledge
+##### Model Interpretability Issues
+##### Computational and Deployment Constraints
+##### Limited Domain Adaptability and Generalization
 
 
 #### 5.2 Future Research Directions
-##### Physics Informed LLM
+##### Data Generation and Multi-Source Fusion
+##### Physics-Informed LLMs for fault diagnosis
+##### The interpretability and trustworthiness of LLM outputs
+##### Lightweight and Edge-Optimized Deployment
+##### PHM-Specific Foundation Models and Hybrid AI
 
 
 ### 6 Conclusion
