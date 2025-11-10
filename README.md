@@ -24,6 +24,8 @@
     - [3.4 Energy and Power](#34-energy-and-power)
   - [4 DL-based vs LLM-based](#4-dl-based-vs-llm-based)
   - [5 Challenges and Future Prospects](#5-challenges-and-future-prospects)
+    - [5.1 Critical Challeges in LLMs for PHM](#51-critical-challeges-in-llms-for-phm)
+    - [5.2 Future Research Directions](#52-future-research-directions)
   - [6 Conclusion](#6-conclusion)
 
 ## Paper List
