@@ -500,6 +500,18 @@
 #### 5.2 Future Research Directions
 ##### Data Generation and Multi-Source Fusion
 ##### Physics-Informed LLMs for fault diagnosis
+
+- **Toward Physics-Informed Machine-Learning-Based Predictive Maintenance for Power Converters—A Review.** `IEEE Transactions on Power Electronics` `2024`
+
+  Fassi, Youssof and Heiries, Vincent and Boutet, Jerome and Boisseau, Sebastien. [[Paper](https://ieeexplore.ieee.org/abstract/document/10301485)]
+
+- **Physics-Informed Large Language Models for HVAC Anomaly Detection with Autonomous Rule Generation.** `arXiv` `2025`
+
+  Lin, Subin and Hua, Chuanbo. [[Paper](http://arxiv.org/abs/2510.17146)]
+
+- **Physics and Data Collaborative Root Cause Analysis: Integrating Pretrained Large Language Models and Data-Driven AI for Trustworthy Asset Health Management.** `Annual Conference of the PHM Society` `2024`
+
+  Huang, Hao and Shah, Tapan and Karigiannis, John and Evans, Scott. [[Paper](http://papers.phmsociety.org/index.php/phmconf/article/view/3881)]
 ##### The interpretability and trustworthiness of LLM outputs
 ##### Lightweight and Edge-Optimized Deployment
 ##### PHM-Specific Foundation Models and Hybrid AI
